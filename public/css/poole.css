@@ -58,34 +58,22 @@ html {
   }
 }
 
-body {
-  color: #515151;
-  background-color: #fff;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-}
-
-/* No `:visited` state is required by default (browsers will use `a`) */
-a {
-  color: #268bd2;
-  text-decoration: none;
-}
 a strong {
-  color: inherit;
+    color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: bold;
-  line-height: 1.25;
-  color: #313131;
-  text-rendering: optimizeLegibility;
+    margin-bottom: .5rem;
+    font-weight: bold;
+    line-height: 1.25;
+    color: #313131;
+    text-rendering: optimizeLegibility;
 }
 h1 {
   font-size: 2rem;

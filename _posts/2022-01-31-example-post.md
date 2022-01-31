@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Post
-categories: [misc]
+categories: [misc, lorenipsum]
 usemathjax: true
 ---
 
@@ -9,4 +9,3 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ![Example Alt Text](/images/Van-Gogh-2.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l_T2I7Du-Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,5 +1,5 @@
 {
-  description = "My Jekyll website";
+  description = "Maria Raheb's Jekyll Site";
 
   inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
   inputs.flake-utils.url = "github:numtide/flake-utils";
