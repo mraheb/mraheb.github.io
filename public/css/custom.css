@@ -1,0 +1,38 @@
+:root{
+    --sidebar-colour: #f79108; /* This determines the sidebar and link hover colour */
+
+    --main-font: Helvetica; /* This is the main font family for the text on your site */
+    --fallback-fonts: Arial, sans-serif; /* These are the fallback fonts. It's best to leave these as they are */
+
+    /* --main-font-colour: ; */
+    --sidebar-title-font: "Abril Fatface"; /* The font family of the sidebar title */
+    --sidebar-font-link-colour: #ff1; /* The colour of sidebar text that are hyperlinks. This is most of the sidebar content */
+
+}
+
+/* General */
+html {
+    font-family: var(--main-font), var(--fallback-fonts);
+}
+
+/* Sidebar */
+.theme-base-EXAMPLE .sidebar {
+    background-color: var(--sidebar-colour);
+}
+
+.theme-base-EXAMPLE .content a,
+.theme-base-EXAMPLE .related-posts li a:hover {
+    color: var(--sidebar-colour);
+}
+
+/* Sidebar links */
+.sidebar a {
+    color: var(--sidebar-font-link-colour);
+}
+
+.sidebar-about h1 {
+    color: #fff;
+    margin-top: 0;
+    font-family: var(--sidebar-title-font), serif;
+    font-size: 2.7rem;
+}
