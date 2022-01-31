@@ -1,0 +1,27 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+        <img src="/images/sidebarpic.png" alt="It's me" class="rounded-corners" height="200">
+      <h1>
+        <a href="/">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">A page!</a>
+      <a class="sidebar-nav-item" href="/blog">Blog</a>
+      <a class="sidebar-nav-item" href="/research">Another page!</a>
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+    </nav>
+    <div class="social">
+      LINKS
+        {% include social.html %}
+    </div>
+
+       <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+  </div>
+
+</div>

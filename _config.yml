@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Sample title"
+tagline:          "Sample tagline"
+description:      "Sample description"
+url:              https://githubusername.github.io
+baseurl:          /
+
+author:
+  name:           Sample Name
+  url:            https://example.com
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+
+# Sets blog page to have previews
+paginate:         5
+paginate_path: "blog/page:num"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/jeslie0/example
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Social media usernames
+github_username:   githubusername
+twitter_username:  twitterusername
