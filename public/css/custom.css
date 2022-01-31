@@ -9,7 +9,7 @@
     --main-background-colour: #fff; /* The colour of the background of your main body of text */
 
     --link-colour: #2cd1bf; /* The colour of hyperlinks in the body of the page. */
-    --link-decoration: underline; /* Do you want links to be decorated? Change this to "none" if not */
+    --link-decoration: none; /* Do you want links to be decorated? Change this to "none" if not */
 }
 
 /* General */
