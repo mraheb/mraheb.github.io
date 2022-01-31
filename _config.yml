@@ -7,10 +7,12 @@ permalink:        pretty
 
 # Setup
 title:            "A Quantum Girl in a Quantum World"
-tagline:          "Sample tagline" #This is only used on pages with title "Home"
-description:      ""
+tagline:          "Maria's Blog" #This is only used on pages with title "Home"
+description:      "Maria's Blog"
 url:              https://mraheb.github.io
 baseurl:          /
+sidebarimage:	  /images/pic.jpg
+sidebarimagealttext:	It's me!
 
 author:
   name:           Maria Raheb
@@ -28,12 +30,9 @@ paginate_path: "blog/page:num"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/jeslie0/mrhab.github.io
+  repo:           https://github.com/mraheb/mraheb.github.io
 
 exclude:
   - Gemfile
   - Gemfile.lock
 
-# Social media usernames
-github_username:   githubusername
-twitter_username:  twitterusername

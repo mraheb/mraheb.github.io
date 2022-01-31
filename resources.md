@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Contact Me
+title: Resources
 ---
