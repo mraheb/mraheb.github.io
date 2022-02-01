@@ -10,7 +10,7 @@ title:            "Maria's Blog"
 tagline:          "Maria's Blog" #This is only used on pages with title "Home"
 description:      "A Quantum Girl in a Quantum World"
 url:              https://mraheb.github.io
-baseurl:          jeslie0.github.io
+baseurl:          /
 sidebarimage:	  /images/pic.jpg
 sidebarimagealttext:	It's me!
 
