@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Post 1
-categories: [Example1]
+categories: [Example Category 1]
 usemathjax: true
 ---
 

@@ -6,13 +6,17 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            "A Quantum Girl in a Quantum World"
+title:            "Maria's Blog"
 tagline:          "Maria's Blog" #This is only used on pages with title "Home"
-description:      "Maria's Blog"
+description:      "A Quantum Girl in a Quantum World"
 url:              https://mraheb.github.io
 baseurl:          /
 sidebarimage:	  /images/pic.jpg
 sidebarimagealttext:	It's me!
+
+disqus:
+   shortname:	disqus_H1rmibpPh5
+
 
 author:
   name:           Maria Raheb
@@ -35,4 +39,5 @@ github:
 exclude:
   - Gemfile
   - Gemfile.lock
+
 
