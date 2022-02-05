@@ -6,7 +6,7 @@ title: Contact Me
 
 **You can reach me at:<br/>**
 <p>
-<i> Email:</i> mraheb (at) uwo (dot) ca.<br/>
+<em> Email:</em> mraheb (at) uwo (dot) ca.<br/>
 ​Office phone number:  (519) 661-2166 ext. 87871
 ​</p>
 
