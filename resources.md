@@ -12,7 +12,7 @@ title: Resources
 This is a wonderful text for beginner and intermediate, undergraduate and graduate students alike. Levine's text is unique because it includes mathematical derivations for nearly all of the quantum mechanical models discussed in a gentle and palatable manner.
 
 
-2. [*Quantum Chemistry* by **Donald A. McQuarrie**](https://www.amazon.ca/Quantum-Chemistry-Donald-McQuarrie/dp/8130918943/ref=sr_1_3?crid=1HC19QPTJJ0G1&keywords=mcquarrie+quantum&qid=1644193062&sprefix=mcquarrie+quantum%2Caps%2C105&sr=8-3)
+2. [*Quantum Chemistry* by **Donald A. McQuarrie**](https://www.amazon.ca/Quantum-Chemistry-Donald-McQuarrie/dp/8130918943/ref=sr_1_3?crid=1HC19QPTJJ0G1&keywords=mcquarrie+quantum&qid=1644193062&sprefix=mcquarrie+quantum%2Caps%2C105&sr=8-3) This text is particularly intriguing to me, for its subheadings are rather unconventional when compared to its counterparts; each subheading in the text is a **single** statement summerizing the proceeding section, rather than a vague title of what the section will discuss. This is incredibly helpful if you want to review key concepts at a single glance. For instances, the subheading, *"The Schrodinger Equation for a Hydrogen Atom Can Be Solved Exactly,"* is far more insightful than, *"The Hydrogen Atom."*   
 
 ### *resources for the passionate physical chemist:*
 ### *resources for the outstanding organic chemist:*
