@@ -5,23 +5,7 @@ title: Home
 
 <h1 class="title">About Me</h1> <!-- Don't delete this unless you want your title to disappear! -->
 
-  Header   | Another Header | Yet Another Header
-  ---------|----------------|-------------------
-  Value 11 | Value 12       | Value 13
-  Value 21 | Value 22       | Value 23
-  Value 31 | Value 32       | Value 33
+Hello there!
+My name is Maria Raheb and I am a M.Sc. candidate at the University of Western Ontario, in the Department of Chemistry, specializing in the Physical and Analytical division, namely the Theoretical and Computational sector. I attained my B.Sc. in Applied Mathematics and Chemistry in 2021 at the University of Western Ontario, where I completed a senior project in theoretical mathematical biology under the supervision of Dr. Lindi Wahl. Presently, I am completing my master’s thesis under the supervision of Dr. Viktor Staroverov in quantum chemistry.
 
- [This is a link!](https://www.bbc.co.uk)
 
-# Heading
-## SubHeading
-### SubSubHeading...
-
-<figure>
-  <center>
-  <img src ="/images/pic.jpg" alt ="it's me" style="width:50%">
-  <figcaption>
-    <font size="-1.5"><span style="color:gray"> You can use html to modify images!</span></font>
-  </figcaption>
-  </center>
-</figure>
