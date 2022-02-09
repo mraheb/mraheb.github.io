@@ -6,10 +6,10 @@ title: Resources
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
 
 ## Chemistry Resources
-Below one will find a plethora of chemistry texts that have helped me tremendously during my undergraduate career, especially with my chemistry major. The first three sections listed below continue to aid me in my graduate studies and hopefully they will be of use to you.
+Below one will find a plethora of chemistry texts that have helped me tremendously during my undergraduate career, especially with my chemistry major. The first three sections listed below continue to aid me in my graduate studies and hopefully they will be of use to you too.
 
 ### *resources for the curious computational chemist:*
-1. [*Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics* by **Errol G. Lewars**](https://www.amazon.ca/Computational-Chemistry-Introduction-Applications-Molecular/dp/3319809156/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1644192255&sr=8-2)
+1. [*Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics* by **Errol G. Lewars**](https://www.amazon.ca/Computational-Chemistry-Introduction-Applications-Molecular/dp/3319809156/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1644192255&sr=8-2) I used this text quite a bit for an undergraduate computational chemistry course years ago and its still of good use for my work today. The book is essentially a discussion of the three main computational techniques used in the field-- ab initio, semiempirical, and density functional-based calculations. Each section concludes with a series of *Easier Questions*, and *Harder Questions*, and solutions are available for the latter set of questions.
 
 ### *resources for the quirky quantum chemist:*
 1. [*Quantum Chemistry* by **Ira N. Levine** ](https://www.amazon.ca/Quantum-Chemistry-Ira-N-Levine/dp/9332558531/ref=sr_1_5?crid=3U72ICSKUBJII&keywords=ira+levine+quantum&qid=1644192949&sprefix=ira+levine+quantum%2Caps%2C70&sr=8-5)
