@@ -2,6 +2,8 @@
 layout: page
 title: Resources
 ---
+<span style = "color:#55DBCD">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
+― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
 
 ## Chemistry Resources
 Below one will find a plethora of texts that have helped me tremendously during my undergraduate career, especially with my chemistry major.  
