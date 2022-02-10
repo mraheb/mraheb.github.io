@@ -3,7 +3,7 @@
     --sidebar-title-font: "Abril Fatface"; /* The font family of the sidebar title */
     --sidebar-font-link-colour: #fff; /* The colour of sidebar text that are hyperlinks. This is most of the sidebar content */
 
-    --main-font: Ubuntu; /* This is the main font family for the text on your site */
+    --main-font: Raleway; /* This is the main font family for the text on your site */
     --fallback-fonts: Arial, sans-serif; /* These are the fallback fonts. It's best to leave these as they are */
     --main-font-colour: #515151; /* The font colour of the main text in the body of your site */
     --main-background-colour: #fff; /* The colour of the background of your main body of text */
