@@ -22,5 +22,6 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 ### resources for the passionate physical chemist:
 ### resources for the outstanding organic chemist:
 ### resources for the inquisitive inorganic chemist:
-1. [*Inorganic Chemistry* by **Gary Miessler**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals course. Unlike other inorganic chemistry texts, Miessler's spends a good portion going over group theory and its ties to molecular orbital theory and spectroscopy. 
+1. [*Inorganic Chemistry* by **Gary Miessler**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals chemistry course. Unlike other inorganic chemistry texts, Miessler's spends a good portion going over group theory and its ties to molecular orbital theory and spectroscopy, so if you're keen on group theory and its implications in inorganic chemistry and spectroscopy, give this text a try! 
+
 ## Applied Mathematics Resources
