@@ -28,7 +28,7 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 ### resources for the outstanding organic chemist:
 1. [*Organic Chemistry* by **David Klein**](https://www.amazon.ca/Organic-Chemistry-David-R-Klein/dp/1119659590/ref=sr_1_7?crid=XRYENXYRXZGO&keywords=klein+organic&qid=1644634991&sprefix=klein+organic%2Caps%2C138&sr=8-7)
 
-2. [*Organic Chemistry* by **Jonathan Clayden, Nick Greeves, and Stuart Warren*](https://www.amazon.ca/Organic-Chemistry-Jonathan-Clayden-ebook/dp/B00AFY2SQK/ref=sr_1_1?crid=2CS9PPB08EYIU&keywords=organic+chemistry+clayden&qid=1644635072&sprefix=organic+chemistry+clayde%2Caps%2C103&sr=8-1)
+2. [*Organic Chemistry* by **Jonathan Clayden, Nick Greeves, and Stuart Warren**](https://www.amazon.ca/Organic-Chemistry-Jonathan-Clayden-ebook/dp/B00AFY2SQK/ref=sr_1_1?crid=2CS9PPB08EYIU&keywords=organic+chemistry+clayden&qid=1644635072&sprefix=organic+chemistry+clayde%2Caps%2C103&sr=8-1)
 
 3. [*Strategic Applications od Named Reactions in Organic Synthesis* by **László Kürti and Barbara Czakó** ](https://www.amazon.ca/Strategic-Applications-Reactions-Organic-Synthesis/dp/0124297854/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
