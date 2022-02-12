@@ -4,4 +4,4 @@ title: Research
 ---
 
 
-<span style = "color:#55DBCD">*"True happiness occurs only when you find the problems you enjoy having and enjoy solving"- [Mark Manson](https://markmanson.net/)* </span>
+<span style = "color:#F55649">*"True happiness occurs only when you find the problems you enjoy having and enjoy solving"- [Mark Manson](https://markmanson.net/)* </span>
