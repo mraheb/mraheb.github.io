@@ -20,7 +20,20 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 3. [*Molecular Quantum Mechanics* by **Peter Atkins and Ronald Friedman**](https://www.amazon.ca/Molecular-Quantum-Mechanics-Peter-Atkins/dp/0199541426/ref=sr_1_3?crid=1KWFIOZ22ROX5&keywords=molecular+quantum+mechanics&qid=1644381245&sprefix=molecular+quantum+mechnaics%2Caps%2C85&sr=8-3)  This text is best suited for advanced undergraduate students and graduate students. For those who have an appreciation for group theory and its connection to quantum chemistry, this book dedicates an entire chapter on the subject and does not omit the mathematical rigor involved in really understanding symmetry in chemistry and its implications.
 
 ### resources for the passionate physical chemist:
+1. [*Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience* by **Ken A. Dill and Sarina Bromberg**](https://www.amazon.ca/Molecular-Driving-Forces-Statistical-Thermodynamics/dp/0815344309/ref=sr_1_1?keywords=molecular+driving+forces&qid=1644635385&sprefix=molecular+driving+%2Caps%2C87&sr=8-1)
+
+2. [*Physical Chemistry* by **Peter Atkins, Julio de Paula, and James Keeler**](https://www.amazon.ca/Atkins-Physical-Chemistry-Peter/dp/0198769865/ref=sr_1_1?crid=2U928G185K2L9&keywords=atkins+physical+chemistry&qid=1644635498&sprefix=atkins+physical+chemistry%2Caps%2C87&sr=8-1)
+
+
 ### resources for the outstanding organic chemist:
+1. [*Organic Chemistry* by **David Klein**](https://www.amazon.ca/Organic-Chemistry-David-R-Klein/dp/1119659590/ref=sr_1_7?crid=XRYENXYRXZGO&keywords=klein+organic&qid=1644634991&sprefix=klein+organic%2Caps%2C138&sr=8-7)
+
+2. [*Organic Chemistry* by **Jonathan Clayden, Nick Greeves, and Stuart Warren*](https://www.amazon.ca/Organic-Chemistry-Jonathan-Clayden-ebook/dp/B00AFY2SQK/ref=sr_1_1?crid=2CS9PPB08EYIU&keywords=organic+chemistry+clayden&qid=1644635072&sprefix=organic+chemistry+clayde%2Caps%2C103&sr=8-1)
+
+3. [*Strategic Applications od Named Reactions in Organic Synthesis* by **László Kürti and Barbara Czakó** ](https://www.amazon.ca/Strategic-Applications-Reactions-Organic-Synthesis/dp/0124297854/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+
+
+
 ### resources for the inquisitive inorganic chemist:
 1. [*Inorganic Chemistry* by **Gary Miessler**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals chemistry course back in undergrad. Unlike other inorganic chemistry texts, Miessler's dedicates a chapter on group theory and its ties to molecular orbital theory and spectroscopy, so if you're keen on group theory and its implications in inorganic chemistry and spectroscopy, give this text a go! 
 
@@ -30,3 +43,6 @@ Below this heading, one will find a collection of texts that I used to supplemen
 ### dynamical systems-ordinary and partial differential equations:
 1. [*Partial Differential Equations: Theory and Completely Solved Problems* by **T. Hillen, L.E. Leonard, and H. Van Roessel**](https://www.amazon.ca/Partial-Differential-Equations-Completely-Problems/dp/1525550241/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) This text does a wonderful job presenting the three main PDEs studies in the field, (i.e. heat, wave, and Laplace equations), and their properties. A spectacular feature of this text is the collection of exams at the end, complete with solutions! Table of contents for the latest edition can be viewed [here](https://books.google.ca/books/about/Partial_Differential_Equations.html?id=G_WaDwAAQBAJ&redir_esc=y).
 
+2. [*Nonlinear Dynamics and Chaos, with Applications in Biology, Chemistry, and Engineering* by **Steven H. Strogatz**]() There are very few texts out there dedicated to nonlinear ordinary differential equations and their implications in the physical and natural sciences.
+
+3. [*Partial Differential Equations with Fourier Series and Boundary Value Problems* by **Nakhle H. Asmar**](https://www.amazon.ca/Partial-Differential-Equations-Boundary-Problems/dp/0486807371/ref=sr_1_1?crid=1SATC4HJPPV37&keywords=partial+differential+asmar&qid=1644634804&sprefix=partial+differential+asmar%2Caps%2C100&sr=8-1)
