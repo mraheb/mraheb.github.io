@@ -22,7 +22,11 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 ### resources for the passionate physical chemist:
 ### resources for the outstanding organic chemist:
 ### resources for the inquisitive inorganic chemist:
-1. [*Inorganic Chemistry* by **Gary Miessler**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals chemistry course back in undergrad. Unlike other inorganic chemistry texts, Miessler's dedicates a chapter on group theory and its ties to molecular orbital theory and spectroscopy, so if you're keen on group theory and its implications in inorganic chemistry and spectroscopy, give this text a try! 
+1. [*Inorganic Chemistry* by **Gary Miessler**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals chemistry course back in undergrad. Unlike other inorganic chemistry texts, Miessler's dedicates a chapter on group theory and its ties to molecular orbital theory and spectroscopy, so if you're keen on group theory and its implications in inorganic chemistry and spectroscopy, give this text a go! 
 
 ## Applied Mathematics Resources
 Below this heading, one will find a collection of texts that I used to supplement my lectures in applied mathematics. Similar to above, I have linked where these books can be purchased (Canadian websites).
+
+### dynamical systems-ordinary and partial differential equations:
+1. [*Partial Differential Equations: Theory and Completely Solved Problems* by **T. Hillen, L.E. Leonard, and H. Van Roessel**](https://www.amazon.ca/Partial-Differential-Equations-Completely-Problems/dp/1525550241/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) This text does a wonderful job presenting the three main PDEs studies in the field, (i.e. heat, wave, and Laplace equations), and their properties. A spectacular feature of this text is the collection of exams at the end, complete with solutions! Table of contents for the latest edition can be viewed [here](https://books.google.ca/books/about/Partial_Differential_Equations.html?id=G_WaDwAAQBAJ&redir_esc=y).
+
