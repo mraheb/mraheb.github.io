@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            "Maria Raheb"
-tagline:          "Maria's Blog" #This is only used on pages with title "Home"
+tagline:          "Maria Raheb" #This is only used on pages with title "Home"
 description:      "A Quantum Girl in a Quantum World"
 url:              https://mraheb.github.io
 baseurl:          /
