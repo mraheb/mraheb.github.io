@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 ---
-<span style = "color:#F55649">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
+<span style = "color:#55DBCD">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
 
 ## Chemistry Resources
