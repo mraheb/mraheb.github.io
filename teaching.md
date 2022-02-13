@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-<span style = "color:#F55649">*“When one teaches, two learn." –[Robert Heinlein](https://www.goodreads.com/author/show/205.Robert_A_Heinlein)* </span>
+<span style = "color:#55DBCD">*“When one teaches, two learn." –[Robert Heinlein](https://www.goodreads.com/author/show/205.Robert_A_Heinlein)* </span>
 
 As a M.Sc. candidate in chemistry, I have the pleasure and privilege of mentoring and teaching undergraduate students. 
 Currently, I am a laboratory teaching assistant for **Chemistry 1302B.**
