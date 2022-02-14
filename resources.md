@@ -26,11 +26,12 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 
 
 ### resources for the outstanding organic chemist:
-1. [*Organic Chemistry* by **David Klein**](https://www.amazon.ca/Organic-Chemistry-David-R-Klein/dp/1119659590/ref=sr_1_7?crid=XRYENXYRXZGO&keywords=klein+organic&qid=1644634991&sprefix=klein+organic%2Caps%2C138&sr=8-7)
+1. [*Organic Chemistry* by **David Klein**](https://www.amazon.ca/Organic-Chemistry-David-R-Klein/dp/1119659590/ref=sr_1_7?crid=XRYENXYRXZGO&keywords=klein+organic&qid=1644634991&sprefix=klein+organic%2Caps%2C138&sr=8-7) This is a phenomenal introductory organic chemistry text for both chemistry and non-chemistry students alike. The first few chapters acquaint the reader with the concepts nescessary to establish a solid foundation in organic chemistry, (i.e. a review of general chemistry, acid-base chemistry, and stereochemistry). Thereafter, the text is organized by functional group, which makes navigating the text easier and frankly makes learning a subject like organic chemistry less daunting. For example, everything you need to know about alcohols is in one place, (nomenclature, physical and chemical properties, and reactivity).
 
-2. [*Organic Chemistry* by **Jonathan Clayden, Nick Greeves, and Stuart Warren**](https://www.amazon.ca/Organic-Chemistry-Jonathan-Clayden-ebook/dp/B00AFY2SQK/ref=sr_1_1?crid=2CS9PPB08EYIU&keywords=organic+chemistry+clayden&qid=1644635072&sprefix=organic+chemistry+clayde%2Caps%2C103&sr=8-1)
 
-3. [*Strategic Applications od Named Reactions in Organic Synthesis* by **László Kürti and Barbara Czakó** ](https://www.amazon.ca/Strategic-Applications-Reactions-Organic-Synthesis/dp/0124297854/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+3. [*Organic Chemistry* by **Jonathan Clayden, Nick Greeves, and Stuart Warren**](https://www.amazon.ca/Organic-Chemistry-Jonathan-Clayden-ebook/dp/B00AFY2SQK/ref=sr_1_1?crid=2CS9PPB08EYIU&keywords=organic+chemistry+clayden&qid=1644635072&sprefix=organic+chemistry+clayde%2Caps%2C103&sr=8-1) This text is best suited for intermediate-level students. For a more gentle introduction to organic chemistry, see above. Unlike Klein's text, Clayden's is organized by reaction type and loosely by reactivity, which makes navigating this text for a beginner or non-expert (like myself) a bit cumbersome.
+
+3. [*Strategic Applications of Named Reactions in Organic Synthesis* by **László Kürti and Barbara Czakó** ](https://www.amazon.ca/Strategic-Applications-Reactions-Organic-Synthesis/dp/0124297854/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
 
