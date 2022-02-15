@@ -50,9 +50,9 @@ Below this heading, one will find a collection of texts that I used to supplemen
 
 
 ## Podcasts 
-* [*Philosophize This!*](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=e29b71f734844d52)
-* [*Ten Percent Happier with Dan Harris*](https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv?si=56a84cc5696a4094)
+* [*Philosophize This!* with **_Stephen West_**](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=e29b71f734844d52)
+* [*Ten Percent Happier* with **_Dan Harris_**](https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv?si=56a84cc5696a4094)
 * [*Motivational Speeches*](https://open.spotify.com/show/3cTqh1f1Ytns9lw5lC885f?si=9569707256e54c09)
-* [*The Majority Report with Sam Seder*](https://open.spotify.com/show/54XamSLDhv579AvZJzK6Bd?si=b94b51de1f4e4006)
-* [*Democracy Now!*](https://open.spotify.com/show/3cNrL5nALTDuWbRfabHeOG?si=27698cc8355944c0)
-* [*How to Be a Better Human*](https://open.spotify.com/show/5KuVFavG72i7fNOZ9tEX3a?si=e2e27550b13c4739)
+* [*The Majority Report* with **_Sam Seder_**](https://open.spotify.com/show/54XamSLDhv579AvZJzK6Bd?si=b94b51de1f4e4006)
+* [*Democracy Now!* with **_Amy Goodman and Juan Gonzalez_**](https://open.spotify.com/show/3cNrL5nALTDuWbRfabHeOG?si=27698cc8355944c0)
+* [*How to Be a Better Human* by **_TED and PRX feat. Chris Duffy_**](https://open.spotify.com/show/5KuVFavG72i7fNOZ9tEX3a?si=e2e27550b13c4739)
