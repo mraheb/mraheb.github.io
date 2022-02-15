@@ -50,9 +50,17 @@ Below this heading, one will find a collection of texts that I used to supplemen
 
 
 ## Podcasts 
+### podcasts pertaining to philosophy, self-betterment, and current events:
 * [*Philosophize This!* with **_Stephen West_**](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=e29b71f734844d52)
 * [*Ten Percent Happier* with **_Dan Harris_**](https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv?si=56a84cc5696a4094)
-* [*Motivational Speeches*](https://open.spotify.com/show/3cTqh1f1Ytns9lw5lC885f?si=9569707256e54c09)
+* [*Motivational Speeches* by **_Motivationly_**](https://open.spotify.com/show/3cTqh1f1Ytns9lw5lC885f?si=9569707256e54c09)
 * [*The Majority Report* with **_Sam Seder_**](https://open.spotify.com/show/54XamSLDhv579AvZJzK6Bd?si=b94b51de1f4e4006)
-* [*Democracy Now!* with **_Amy Goodman and Juan Gonzalez_**](https://open.spotify.com/show/3cNrL5nALTDuWbRfabHeOG?si=27698cc8355944c0)
+* [*Democracy Now!* with **_Amy Goodman & Juan Gonzalez_**](https://open.spotify.com/show/3cNrL5nALTDuWbRfabHeOG?si=27698cc8355944c0)
 * [*How to Be a Better Human* by **_TED and PRX feat. Chris Duffy_**](https://open.spotify.com/show/5KuVFavG72i7fNOZ9tEX3a?si=e2e27550b13c4739)
+
+
+### podcasts pertaining to the natural and physical sciences:
+* [*This Week in Virology* by **_Vincent Racaniello_**](https://open.spotify.com/show/6GifipQkBOoRzOpMxw3Xix?si=fc44aca6fb94410b)
+* [*Quirks and Quarks* by **_CBC Radio_**](https://open.spotify.com/show/2ez2pw7URhwv8H1JqALOzi?si=73828b26643c4f94)
+* [*The Weirdest Thing I Learned This Week* by **_Popular Science_**](https://open.spotify.com/show/1l3aIVJ1FVrHSixsgrJ1f4?si=184cd04d98634a35)
+* [*Science Rules* with **_ Stitcher & Bill Nye_**](https://open.spotify.com/show/3zGr8BgdHMdhUeLhgEYX8R?si=26666f71976746b6)
