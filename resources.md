@@ -5,7 +5,7 @@ title: Resources
 <span style = "color:#55DBCD">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
 
-## Chemistry Resources
+## <span style = "color:#28bdad">Chemistry Resources</span>
 Below one will find a plethora of chemistry texts that have helped me tremendously during my undergraduate career, especially with my chemistry major. The texts listed under the first three sections below continue to aid me in my graduate studies and hopefully they will be of use to you too.
 
 ### resources for the curious computational chemist:
@@ -38,7 +38,7 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 ### resources for the inquisitive inorganic chemist:
 1. [*Inorganic Chemistry* by **Gary Miessler**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals chemistry course back in undergrad. Unlike other inorganic chemistry texts, Miessler's dedicates a chapter on group theory and its ties to molecular orbital theory and spectroscopy, so if you're keen on group theory and its implications in inorganic chemistry and spectroscopy, give this text a go! 
 
-## Applied Mathematics Resources
+## <span style = "color:#28bdad">Applied Mathematics Resources</span>
 Below this heading, one will find a collection of texts that I used to supplement my lectures in applied mathematics. Similar to above, I have linked where these books can be purchased (Canadian websites).
 
 ### dynamical systems-ordinary and partial differential equations:
