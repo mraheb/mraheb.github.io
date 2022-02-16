@@ -49,7 +49,7 @@ Below this heading, one will find a collection of texts that I used to supplemen
 3. [*Partial Differential Equations with Fourier Series and Boundary Value Problems* by **Nakhle H. Asmar**](https://www.amazon.ca/Partial-Differential-Equations-Boundary-Problems/dp/0486807371/ref=sr_1_1?crid=1SATC4HJPPV37&keywords=partial+differential+asmar&qid=1644634804&sprefix=partial+differential+asmar%2Caps%2C100&sr=8-1) This text is perhaps the most rigorous of all the partial differential equations texts I have come across. There is extensive discussion on transform methods, such as Fourier, Laplace, and even Hankel transforms, (albeit the discussion on Hankel transforms is short, it is seldom included in any PDEs texts). 
 
 
-## Podcasts 
+## <span style = "color:#28bdad">Podcasts</span> 
 ### podcasts pertaining to philosophy, self-betterment, and current events:
 * [*Philosophize This! with* **_Stephen West_**](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=e29b71f734844d52)
 * [*Ten Percent Happier with* **_Dan Harris_**](https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv?si=56a84cc5696a4094)
