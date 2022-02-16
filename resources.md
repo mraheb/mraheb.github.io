@@ -56,7 +56,7 @@ Below this heading, one will find a collection of texts that I used to supplemen
 * [*Motivational Speeches by* **_Motivationly_**](https://open.spotify.com/show/3cTqh1f1Ytns9lw5lC885f?si=9569707256e54c09)
 * [*The Majority Report with* **_Sam Seder_**](https://open.spotify.com/show/54XamSLDhv579AvZJzK6Bd?si=b94b51de1f4e4006)
 * [*Democracy Now! with* **_Amy Goodman & Juan Gonzalez_**](https://open.spotify.com/show/3cNrL5nALTDuWbRfabHeOG?si=27698cc8355944c0)
-* [*How to Be a Better Human by* **_TED and PRX feat. Chris Duffy_**](https://open.spotify.com/show/5KuVFavG72i7fNOZ9tEX3a?si=e2e27550b13c4739)
+* [*How to Be a Better Human by* **_TED & PRX feat. Chris Duffy_**](https://open.spotify.com/show/5KuVFavG72i7fNOZ9tEX3a?si=e2e27550b13c4739)
 
 
 ### podcasts pertaining to the natural and physical sciences:
