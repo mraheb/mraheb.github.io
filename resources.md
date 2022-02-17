@@ -67,4 +67,4 @@ Below this heading, one will find a collection of texts that I used to supplemen
 
 
 ## <span style = "color:#28bdad">Cheatsheets</span>
-* Linux cheatsheets available [here](/files/Linux CheatSheet.pdf).
+
