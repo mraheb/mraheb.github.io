@@ -64,3 +64,7 @@ Below this heading, one will find a collection of texts that I used to supplemen
 * [*Quirks and Quarks by* **_CBC Radio_**](https://open.spotify.com/show/2ez2pw7URhwv8H1JqALOzi?si=73828b26643c4f94)
 * [*The Weirdest Thing I Learned This Week by* **_Popular Science_**](https://open.spotify.com/show/1l3aIVJ1FVrHSixsgrJ1f4?si=184cd04d98634a35)
 * [*Science Rules with* **_Stitcher & Bill Nye_**](https://open.spotify.com/show/3zGr8BgdHMdhUeLhgEYX8R?si=26666f71976746b6)
+
+
+## <span style = "color:#28bdad">Cheatsheets</span>
+* Linux cheatsheets available [here](/files/Linux CheatSheet.pdf).
