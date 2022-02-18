@@ -69,6 +69,6 @@ Below this heading, one will find a collection of texts that I used to supplemen
 
 ## <span style = "color:#28bdad">Cheatsheets</span>
 Here you will find a compliation of cheatsheets for various computing purposes. 
-* [Beamer](/files/Beamer-Latex-Cheatsheet.pdf): Beamer is $\LaTeX$ class used to create high-quality scientific (or even non-scientific) presentations. Attached is a useful reference for themes, fonts, colors, and formats available on beamer.
+* [Beamer](/files/Beamer-Latex-Cheatsheet.pdf): Beamer is $\LaTeX$ class used to create high-quality scientific (or even non-scientific) presentations. Attached is a useful reference for themes, fonts, colors, and formats available in beamer.
 
 
