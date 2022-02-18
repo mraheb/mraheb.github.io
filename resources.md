@@ -67,4 +67,7 @@ Below this heading, one will find a collection of texts that I used to supplemen
 
 
 ## <span style = "color:#28bdad">Cheatsheets</span>
+Here you will find a compliation of cheatsheets for various computing purposes. 
+* [Beamer](/files/Beamer-Latex-Cheatsheet.pdf)
+
 
