@@ -70,7 +70,7 @@ Below this heading, one will find a collection of texts that I used to supplemen
 ## <span style = "color:#28bdad">Cheatsheets</span>
 Here you will find a compliation of cheatsheets for various computing purposes. 
 * [Beamer](/files/Beamer-Latex-Cheatsheet.pdf): Beamer is $\LaTeX$ class used to create high-quality scientific (or even non-scientific) presentations. Attached is a useful reference for themes, fonts, colors, and formats available in the beamer class.
-* [MATLAB](/files/Matlab-CheatSheet.pdf): <sup>[1](https://www.math.uwo.ca/undergraduate/current_students/course_information/index.html)</sup>
+* [MATLAB](/files/Matlab-CheatSheet.pdf) <sup>[1](https://www.mathworks.com/products/matlab.html?s_tid=hp_ff_p_matlab)</sup>: MATLAB is a programming language similar to C/C++ primarily used for numerical computing, matrix manipulation, data visualization, mathematical modelling, and even interfacing with programs written in different languages. Additionally, MATLAB supports object-oriented programming and can be used for deep learning, signal processing, among many other things. Attached is a cheatsheet covering the fundamentals of MATLAB courtesy of [ETH Zurich](https://ethz.ch/en.html).
 * 
 
 
