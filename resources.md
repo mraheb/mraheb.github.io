@@ -74,4 +74,5 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 * [$\LaTeX$ Symbols Cheatsheet](/files/symbol-table-LaTeX.pdf): $\LaTeX$ is a typesetting system commonly used to produce scientific documents and technical reports. Attached is a useful reference containing common math symbols used in $\LaTeX$.
 * [**Vi**sual Editor Cheatsheet](/files/VI-editor-cheatsheet.pdf): Visual editor is a built-in text editor in the UNIX operating system. I frequently use vi editor for my research to edit and write scripts of code. Attached is a cheatsheet containing common commands used in vi editor courtsey of the [College of Arts and Science at the University of Albany](http://www.atmos.albany.edu/index.php?d=wx_data). For a more comprehensive guide, click [here](https://www.cs.colostate.edu/helpdocs/vi.html).
 
-
+## <span style = "color:#28bdad">Website Design</span>
+* *Color themes*: I used [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) to select a color theme for my website
