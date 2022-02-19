@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Post 1
-categories: [Example Category 1]
+categories: [First Rule of Book Club is You <em>Talk</em> About Book Club]
 usemathjax: true
 ---
 
