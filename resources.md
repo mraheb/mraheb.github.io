@@ -75,4 +75,6 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 * [**Vi**sual Editor Cheatsheet](/files/VI-editor-cheatsheet.pdf): Visual editor is a built-in text editor in the UNIX operating system. I frequently use vi editor for my research to edit and write scripts of code. Attached is a cheatsheet containing common commands used in vi editor courtsey of the [College of Arts and Science at the University of Albany](http://www.atmos.albany.edu/index.php?d=wx_data). For a more comprehensive guide, click [here](https://www.cs.colostate.edu/helpdocs/vi.html).
 
 ## <span style = "color:#28bdad">Website Design</span>
-* *Color themes*: I used [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) to select a color theme for my website
+* <span style = "color:#55DBCD">*Color themes:*</span> I used [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) to select a color theme for my website
+* <span style = "color:#55DBCD">*Fonts:*</span>
+* <span style = "color:#55DBCD">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and normally associated with brands or websites.   
