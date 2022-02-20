@@ -5,7 +5,7 @@ title: Resources
 ---
 <span style = "color:#55DBCD">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
-
+<a name="top"></a>
 ## <span style = "color:#28bdad">Chemistry Resources</span>
 Below one will find a plethora of chemistry texts that have helped me tremendously during my undergraduate career, especially with my chemistry major. The texts listed under the first three sections below continue to aid me in my graduate studies and hopefully they will be of use to you too.
 
@@ -102,4 +102,6 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 * <span style = "color:#55DBCD">*Fonts:*</span> [Google Fonts](https://fonts.google.com/) has a multitude of fonts to choose from. Of course, you must configure these fonts to work for your website. The font used in this website is [*Lato*](https://fonts.google.com/specimen/Lato?query=lato).
 
-* <span style = "color:#55DBCD">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and are normally associated with brands or websites.   
+* <span style = "color:#55DBCD">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and are normally associated with brands or websites. 
+
+<a href="#top">back to top</a>
