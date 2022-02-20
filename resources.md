@@ -3,9 +3,10 @@ layout: page
 usemathjax: true
 title: Resources
 ---
+<a name="top"></a>
 <span style = "color:#55DBCD">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
-<a name="top"></a>
+
 ## <span style = "color:#28bdad">Chemistry Resources</span>
 Below one will find a plethora of chemistry texts that have helped me tremendously during my undergraduate career, especially with my chemistry major. The texts listed under the first three sections below continue to aid me in my graduate studies and hopefully they will be of use to you too.
 
@@ -104,4 +105,4 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 * <span style = "color:#55DBCD">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and are normally associated with brands or websites. 
 
-<a href="#top">&#8634;</a>
+<a href="#top">take me back to the top!&#8634;</a>
