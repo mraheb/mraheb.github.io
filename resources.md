@@ -50,6 +50,26 @@ Below this heading, one will find a collection of texts that I used to supplemen
 3. [*Partial Differential Equations with Fourier Series and Boundary Value Problems* by **Nakhle H. Asmar**](https://www.amazon.ca/Partial-Differential-Equations-Boundary-Problems/dp/0486807371/ref=sr_1_1?crid=1SATC4HJPPV37&keywords=partial+differential+asmar&qid=1644634804&sprefix=partial+differential+asmar%2Caps%2C100&sr=8-1) This text is perhaps the most rigorous of all the partial differential equations texts I have come across. There is extensive discussion on transform methods, such as Fourier, Laplace, and even Hankel transforms, (albeit the discussion on Hankel transforms is short, it is seldom included in any PDEs texts). 
 
 
+### linear algebra:
+1. [*Linear Algebra* by **Stephen Friedberg, Arnold Insel, and Lawrence Spence**](https://www.amazon.ca/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241/ref=sr_1_1?crid=2893HQCNPRJNY&keywords=linear+algebra+insel&qid=1645316289&sprefix=linear+algebra+insel%2Caps%2C105&sr=8-1)
+
+2. [*Linear Algebra: A Modern Introduction* by **David Poole**](https://www.amazon.ca/Linear-Algebra-Introduction-David-Poole/dp/1285463242/ref=sr_1_1?crid=2LZVKOTP39DVO&keywords=linear+algebra+poole&qid=1645317033&sprefix=linear+algebra+poole%2Caps%2C314&sr=8-1)
+
+3. [*Contemporary Linear Algebra* by **Howard Anton and Robert C. Busby**](https://www.bookdepository.com/Contemporary-Linear-Algebra-Howard-Anton/9780471163626)
+
+
+### calculus:
+
+### general applied mathematics:
+1. [*How To Derive A Formula - Volume 1: Basic Analytical Skills And Methods For Physical Scientists* by **Alexei A Kornyshev and Dominic J O' Lee**](https://www.bookdepository.com/How-Derive-Formula-1-Basic-Analytical-Skills-Methods-For-Physical-Scientists-Alexei-Kornyshev/9781786346445) 
+
+2. [*Mathematical Methods for Physics and Engineering* by **K.F. Riley, M.P. Hobson, and S.J.Bence**](https://www.amazon.ca/Mathematical-Methods-Physics-Engineering-Comprehensive/dp/0521679710/ref=sr_1_1?crid=16352BJL1R5OQ&keywords=Mathematical+Methods+for+Physics+and+Engineering&qid=1645315329&sprefix=mathematical+methods+for+physics+and+engineering%2Caps%2C408&sr=8-1)
+
+3. [*Advanced Mathematical Methods for Scientists and Engineers I: Asymptotic Methods and Perturbation Theory* by **Carl M. Bender and Steven A. Orszag**](https://www.amazon.ca/Advanced-Mathematical-Methods-Scientists-Engineers/dp/1441931872/ref=sr_1_1?crid=NY9DURCOQM3N&keywords=Advanced+Mathematical+Methods+for+Scientists+and+Engineers+I&qid=1645315962&sprefix=advanced+mathematical+methods+for+scientists+and+engineers+i+%2Caps%2C89&sr=8-1)
+
+
+
+
 ## <span style = "color:#28bdad">Podcasts</span> 
 ### podcasts pertaining to philosophy, self-betterment, and current events:
 * [*Philosophize This! with* **_Stephen West_**](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=e29b71f734844d52)
