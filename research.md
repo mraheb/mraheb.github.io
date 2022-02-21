@@ -15,7 +15,7 @@ The thrust of my work as an M.Sc student is on generating Kohn-Sham potentials f
 Let's start with something more tangible and relatable. Loosely speaking, **classical mechanics** is the study of the motion or behavior of **macroscopic** bodies (i.e. large objects), such as planets, desks, books, humans, to name a few. Unfortunately, classical mechanics fails miserably to explain the behavior of **microscopic** bodies (i.e. subatomic particles), such as protons, neutrons, and electrons, the latter being the most important to my research and are my favorite microscopic particle. People have favorite microscopic particles, right? Anyways, how do we remedy this problem? Does it even matter if we do? The answers to both questions are **quantum mechanics** and it absolutely does matter. Quantum mechanics governs the behavior of microscopic particles and
 
 
-
+\widehat{H}\psi = E\psi
 
 
 
