@@ -9,7 +9,7 @@ title: Research
 ## <span style = "color:#28bdad">What I do</span>
 The thrust of my work as an M.Sc student is on generating Kohn-Sham potentials for chemical systems exhibiting considerable to significant multireference character.
 
-###<span style = "color:#28bdad">For the Lay Audience</span>
+### <span style = "color:#28bdad">For the Lay Audience</span>
 Let's start with something more tangible and relatable. Loosely speaking, **classical mechanics** is the study of the movement of **macroscopic** bodies, such as planets, desks, books, humans, to name a few. Unfortunately, classical mechanics fails miserably to explain the behavior of **microscopic** particles, such as protons and electrons, the latter being the most important for my research purposes and my favorite microscopic particle. People have favorite microscopic particles, right? Anyways, how do we remedy this problem? Does it even matter if we do? The answers to both questions are **quantum mechanics** and it absolutely does matter. 
 
 
