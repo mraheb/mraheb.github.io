@@ -16,6 +16,7 @@ Let's start with something more tangible and relatable. Loosely speaking, **clas
 
 
 \widehat{H}\psi = E\psi
+\mathbf{Hello}
 
 
 
