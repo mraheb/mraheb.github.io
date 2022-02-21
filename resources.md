@@ -52,7 +52,7 @@ Below this heading, one will find a collection of texts that I used to supplemen
 
 
 ### linear algebra:
-1. [*Linear Algebra* by **Stephen Friedberg, Arnold Insel, and Lawrence Spence**](https://www.amazon.ca/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241/ref=sr_1_1?crid=2893HQCNPRJNY&keywords=linear+algebra+insel&qid=1645316289&sprefix=linear+algebra+insel%2Caps%2C105&sr=8-1)
+1. [*Linear Algebra* by **Stephen Friedberg, Arnold Insel, and Lawrence Spence**](https://www.amazon.ca/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241/ref=sr_1_1?crid=2893HQCNPRJNY&keywords=linear+algebra+insel&qid=1645316289&sprefix=linear+algebra+insel%2Caps%2C105&sr=8-1) Although this is perhaps the most rigorous of the linear alegbra texts listed, it still does a wonderful job neatly communicating key concepts, making this text suitable for both beginners and veterans alike. The proofs are presented in an easy to follow manner and there is a plentiful of examples to further solidfy the reader's knowledge.
 
 2. [*Linear Algebra: A Modern Introduction* by **David Poole**](https://www.amazon.ca/Linear-Algebra-Introduction-David-Poole/dp/1285463242/ref=sr_1_1?crid=2LZVKOTP39DVO&keywords=linear+algebra+poole&qid=1645317033&sprefix=linear+algebra+poole%2Caps%2C314&sr=8-1)
 
@@ -60,6 +60,10 @@ Below this heading, one will find a collection of texts that I used to supplemen
 
 
 ### calculus:
+1. [*Calculus: Early Transcendentals* by **James Stewart, Daniel K. Clegg, and Saleem Watson**](https://www.amazon.ca/Calculus-Early-Transcendentals-James-Stewart-dp-1337613924/dp/1337613924/ref=dp_ob_title_bk)
+
+2. [*Calculus* by **James Stewart, Daniel K. Clegg, and Saleem Watson**](https://www.amazon.ca/Calculus-James-Stewart-dp-1337624187/dp/1337624187/ref=dp_ob_image_bk)
+
 
 ### general applied mathematics:
 1. [*How To Derive A Formula - Volume 1: Basic Analytical Skills And Methods For Physical Scientists* by **Alexei A Kornyshev and Dominic J O' Lee**](https://www.bookdepository.com/How-Derive-Formula-1-Basic-Analytical-Skills-Methods-For-Physical-Scientists-Alexei-Kornyshev/9781786346445) 
