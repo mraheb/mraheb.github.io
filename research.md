@@ -17,7 +17,7 @@ Let's start with something more tangible and relatable. Loosely speaking, **clas
 
 
 
-
+$$E=mc^2$$
 
 
 
