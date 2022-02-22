@@ -11,3 +11,14 @@ Presently, I do not have any office hours and current students should contact th
 
 * Fall 2021: [**_Chemistry 1301A:_** *Discovering Chemical Structure.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
 * Winter 2022: [**_Chemistry 1302B:_** *Discovering Chemical Energetics.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
+
+
+
+![Example Alt Text](/images/thumbnail_20224440221_222750.jpg)
+
+*"First you ignore the nonsense and clear your conscience.
+Let your pen touch the paper write the verbs and consonants.
+As the words become a sentence you start to feel indifferent.
+The stress is out of your mind you feel like the weight was lifted.
+Terrific..."*
+- **Acid Raindrops by People under the Stairs**
