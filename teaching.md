@@ -16,10 +16,10 @@ Presently, I do not have any office hours and current students should contact th
 
 
 <body>
-  <p> *"First you ignore the nonsense and clear your conscience. </p>
+  <p>  <em>"First you ignore the nonsense and clear your conscience. </p>
   <p>   Let your pen touch the paper write the verbs and consonants. </p>
   <p>   As the words become a sentence you start to feel indifferent. </p>
   <p>   The stress is out of your mind you feel like the weight was lifted. </p>
-  <p>   Terrific..."* </p>
+  <p>   Terrific..."</em> </p>
   <p>-- **Acid Raindrops by People under the Stairs** </p>
 </body>
