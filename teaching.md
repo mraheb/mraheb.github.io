@@ -15,11 +15,11 @@ Presently, I do not have any office hours and current students should contact th
 
 
 
-<body>
-  <p>  <em>"First you ignore the nonsense and clear your conscience. </p>
-  <p>   Let your pen touch the paper write the verbs and consonants. </p>
-  <p>   As the words become a sentence you start to feel indifferent. </p>
-  <p>   The stress is out of your mind you feel like the weight was lifted. </p>
-  <p>   Terrific..."</em> </p>
-  -- <b>Acid Raindrops by People under the Stairs</b> 
-</body>
+
+  <span style = "color:#55DBCD">*"First you ignore the nonsense and clear your conscience.*</span>
+  <span style = "color:#55DBCD">*Let your pen touch the paper write the verbs and consonants.*</span>
+  <span style = "color:#55DBCD">*As the words become a sentence you start to feel indifferent.* </span>
+  <span style = "color:#55DBCD">*The stress is out of your mind you feel like the weight was lifted.*</span>
+  <span style = "color:#55DBCD">*Terrific...*</span>
+  <span style = "color:#55DBCD">**-- Acid Raindrops by People under the Stairs**</span>
+
