@@ -21,5 +21,5 @@ Presently, I do not have any office hours and current students should contact th
   <p>   As the words become a sentence you start to feel indifferent. </p>
   <p>   The stress is out of your mind you feel like the weight was lifted. </p>
   <p>   Terrific..."</em> </p>
-  <p>-- <b>Acid Raindrops by People under the Stairs</b> </p>
+  <p>-- <b>Acid Raindrops by People under the Stairs</b> 
 </body>
