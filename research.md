@@ -12,36 +12,7 @@ title: Research
 The thrust of my work as an M.Sc student is on generating Kohn-Sham potentials for chemical systems exhibiting considerable to significant multireference character.
 
 ### <span style = "color:#28bdad">For the Lay Audience</span>
-Let's start with something more tangible and relatable. Loosely speaking, **classical mechanics** is the study of the motion or behavior of **macroscopic** bodies (i.e. large objects), such as planets, desks, books, humans, to name a few. Unfortunately, classical mechanics fails miserably to explain the behavior of **microscopic** bodies (i.e. subatomic particles), such as protons, neutrons, and electrons, the latter being the most important to my research and are my favorite microscopic particle. People have favorite microscopic particles, right? Anyways, how do we remedy this problem? Does it even matter if we do? The answers to both questions are **quantum mechanics** and it absolutely does matter. Quantum mechanics governs the behavior of microscopic particles and
-
-
-
-
-$$E=mc^2$$
-$$\begin{align}
- \label{eqn1}  
-\frac{dT}{dt} &= \lambda - \beta TV - dT \\
-\frac{dI}{dt} &= \beta TV - dI - \delta I  \nonumber \\ 
-\frac{dV}{dt} &= kI - cV  \nonumber 
-\end{align}$$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Let's start with something more tangible and relatable. Loosely speaking, **classical mechanics** is the study of the motion or behavior of **macroscopic** bodies (i.e. large objects), such as planets, desks, books, humans, to name a few. Unfortunately, classical mechanics fails miserably to explain the behavior of **microscopic** bodies (i.e. subatomic particles), such as protons, neutrons, and electrons, the latter being the most important to my research and are my favorite microscopic particle. People have favorite microscopic particles, right? Anyways, how do we remedy this problem? Does it even matter if we do? The answers to both questions are **quantum mechanics** and it absolutely does matter. The behavior of microscopic particles is governed by quantum mechanics, much like how the behavior of macroscopic particles is governed by classical mechanics. Part of the classical mechanical regime is to determine the position, $$x$$, of a particle of mass, $$m$$, at any given time, $$t$$, that is we'd like to know $$x(t)$$.
 
 
 
