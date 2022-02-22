@@ -18,7 +18,12 @@ Let's start with something more tangible and relatable. Loosely speaking, **clas
 
 
 $$E=mc^2$$
-
+\begin{align}
+ \label{eqn1}  
+\frac{dT}{dt} &= \lambda - \beta TV - dT \\
+\frac{dI}{dt} &= \beta TV - dI - \delta I  \nonumber \\ 
+\frac{dV}{dt} &= kI - cV  \nonumber 
+\end{align}
 
 
 
