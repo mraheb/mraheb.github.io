@@ -54,9 +54,9 @@ Below this heading, one will find a collection of texts that I used to supplemen
 ### linear algebra:
 1. [*Linear Algebra* by **Stephen Friedberg, Arnold Insel, and Lawrence Spence**](https://www.amazon.ca/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241/ref=sr_1_1?crid=2893HQCNPRJNY&keywords=linear+algebra+insel&qid=1645316289&sprefix=linear+algebra+insel%2Caps%2C105&sr=8-1) Although this is perhaps the most rigorous of the linear alegbra texts listed, it still does a wonderful job neatly communicating key concepts, making this text suitable for both beginners and veterans alike. The proofs are presented in an easy to follow manner and there is a plentiful of examples to further solidfy the reader's knowledge.
 
-2. [*Linear Algebra: A Modern Introduction* by **David Poole**](https://www.amazon.ca/Linear-Algebra-Introduction-David-Poole/dp/1285463242/ref=sr_1_1?crid=2LZVKOTP39DVO&keywords=linear+algebra+poole&qid=1645317033&sprefix=linear+algebra+poole%2Caps%2C314&sr=8-1)
+2. [*Linear Algebra: A Modern Introduction* by **David Poole**](https://www.amazon.ca/Linear-Algebra-Introduction-David-Poole/dp/1285463242/ref=sr_1_1?crid=2LZVKOTP39DVO&keywords=linear+algebra+poole&qid=1645317033&sprefix=linear+algebra+poole%2Caps%2C314&sr=8-1) This text is great for applied mathematicians and engineers, as it contains a plentiful of examples and applications in chemistry, statistics, physics and engineering, buisness and economics, computer science, and the natural sciences. Compared to the first item in this list of texts, Poole's text is application-based and less centered on proofs.
 
-3. [*Contemporary Linear Algebra* by **Howard Anton and Robert C. Busby**](https://www.bookdepository.com/Contemporary-Linear-Algebra-Howard-Anton/9780471163626)
+3. [*Contemporary Linear Algebra* by **Howard Anton and Robert C. Busby**](https://www.bookdepository.com/Contemporary-Linear-Algebra-Howard-Anton/9780471163626) I got extensive use out of this text for a first year course in linear algebra and from what I can recall, there is emphasis on row-reducing--I remember having to do alot of that to find the range and nullspace of a matrix; quite a tedious task. In terms of exercises, the text contains a good balance of application and proof-based practic problems.
 
 
 ### calculus:
@@ -111,8 +111,9 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 2. [*Learning Scientific Programming with Python by* **_Christian Hill_**](https://www.amazon.ca/Learning-Scientific-Programming-Python-Christian/dp/1108745911/ref=sr_1_1?crid=316716PWPC7A2&keywords=Learning+Scientific+Programming+with+Python&qid=1645588273&sprefix=learning+scientific+programming+with+python%2Caps%2C97&sr=8-1)
 
-3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview)
+3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview) This is a great introductory Python course offered by Udemy.
 ### C++
+
 1. [*Guide to Scientific Computing in C++ by* **_Joe Pitt-Francis and Jonathan Whiteley_**](https://www.amazon.ca/Scientific-Computing-Undergraduate-Computer-Science-ebook/dp/B07BQP9Y2C)  
 
 ### MATLAB
