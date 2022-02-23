@@ -113,7 +113,7 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview)
 ### C++
-1. [*Guide to Scientific Computing in C++ by* **_Joe Pitt-Francis and Jonathan Whiteley_**](https://www.amazon.ca/Scientific-Computing-Undergraduate-Computer-Science-ebook/dp/B07BQP9Y2C)
+1. [*Guide to Scientific Computing in C++ by* **_Joe Pitt-Francis and Jonathan Whiteley_**](https://www.amazon.ca/Scientific-Computing-Undergraduate-Computer-Science-ebook/dp/B07BQP9Y2C)  
 
 ### MATLAB
 1. [*Mastering MATLAB by* **_Duane Hanselman and Bruce Littlefield_**](https://www.amazon.ca/Mastering-MATLAB-Duane-C-Hanselman/dp/0136013309/ref=sr_1_1?crid=13G05WYI0PV4T&keywords=mastering+matlab&qid=1645591970&sprefix=mastering+matlab%2Caps%2C108&sr=8-1)
