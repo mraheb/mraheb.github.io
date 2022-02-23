@@ -102,6 +102,23 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 * [**Vi**sual Editor Cheatsheet](/files/VI-editor-cheatsheet.pdf): Visual editor is a built-in text editor in the UNIX operating system. I frequently use vi editor for my research to edit and write scripts of code. Attached is a cheatsheet containing common commands used in vi editor courtsey of the [College of Arts and Science at the University of Albany](http://www.atmos.albany.edu/index.php?d=wx_data). For a more comprehensive guide, click [here](https://www.cs.colostate.edu/helpdocs/vi.html).
 
+
+
+
+## <span style = "color:#28bdad">Programming</span>
+### Python
+1. [*Python Crash Course: A Hands-On, Project-Based Introduction to Programming by* **_Eric Matthes_**](https://www.amazon.ca/Python-Crash-Course-Eric-Matthes/dp/1593279280/ref=sr_1_1crid=MZQZCSS1VDX3&keywords=python+crash+course&qid=1645584721&sprefix=python+crash+course%2Caps%2C121&sr=8-1)
+
+2. [*Learning Scientific Programming with Python by* **_Christian Hill_**](https://www.amazon.ca/Learning-Scientific-Programming-Python-Christian/dp/1108745911/ref=sr_1_1?crid=316716PWPC7A2&keywords=Learning+Scientific+Programming+with+Python&qid=1645588273&sprefix=learning+scientific+programming+with+python%2Caps%2C97&sr=8-1)
+
+3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview)
+### C++
+1. [*Guide to Scientific Computing in C++ by* **_Joe Pitt-Francis and Jonathan Whiteley_**](https://www.amazon.ca/Scientific-Computing-Undergraduate-Computer-Science-ebook/dp/B07BQP9Y2C)
+
+### MATLAB
+1. [*Mastering MATLAB by* **_Duane Hanselman and Bruce Littlefield_**](https://www.amazon.ca/Mastering-MATLAB-Duane-C-Hanselman/dp/0136013309/ref=sr_1_1?crid=13G05WYI0PV4T&keywords=mastering+matlab&qid=1645591970&sprefix=mastering+matlab%2Caps%2C108&sr=8-1)
+
+
 ## <span style = "color:#28bdad">Website Design</span>
 * <span style = "color:#55DBCD">*Color themes:*</span> I used [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) to select the color theme for my website. Not only does Canva provide the user with the hex code (six-digit descriptor of the color), it also suggests color combinations most compatible with the color you select. 
 
@@ -109,4 +126,4 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 * <span style = "color:#55DBCD">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and are normally associated with brands or websites. 
 
-<a href="#top">take me back to the top!&#8634;</a>
+<a href="#top">take me back to the top! &#8634;</a>
