@@ -33,7 +33,7 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 
 3. [*Organic Chemistry* by **Jonathan Clayden, Nick Greeves, and Stuart Warren**](https://www.amazon.ca/Organic-Chemistry-Jonathan-Clayden-ebook/dp/B00AFY2SQK/ref=sr_1_1?crid=2CS9PPB08EYIU&keywords=organic+chemistry+clayden&qid=1644635072&sprefix=organic+chemistry+clayde%2Caps%2C103&sr=8-1) This text is best suited for intermediate-level students. For a more gentle introduction to organic chemistry, see above. Unlike Klein's text, Clayden's is organized by reaction type and loosely by reactivity, which makes navigating this text for a beginner or non-expert (like myself) a bit cumbersome.
 
-3. [*Strategic Applications of Named Reactions in Organic Synthesis* by **László Kürti and Barbara Czakó** ](https://www.amazon.ca/Strategic-Applications-Reactions-Organic-Synthesis/dp/0124297854/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+3. [*Strategic Applications of Named Reactions in Organic Synthesis* by **László Kürti and Barbara Czakó** ](https://www.amazon.ca/Strategic-Applications-Reactions-Organic-Synthesis/dp/0124297854/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) This text is best suited for advanced chemistry students with an aptitude for organic chemistry or for those interested in enhancing their knowledge in organic chemistry. The text is essentially an extensive library of well-known reactions, their importance, mechanism, and synthetic applications.
 
 
 
@@ -41,7 +41,7 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 1. [*Inorganic Chemistry* by **Gary Miessler**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals chemistry course back in undergrad. Unlike other inorganic chemistry texts, Miessler's dedicates a chapter on group theory and its ties to molecular orbital theory and spectroscopy, so if you're keen on group theory and its implications in inorganic chemistry and spectroscopy, give this text a go! 
 
 ## <span style = "color:#28bdad">Applied Mathematics Resources</span>
-Below this heading, one will find a collection of texts that I used to supplement my lectures in applied mathematics. Similar to above, I have linked where these books can be purchased (Canadian websites).
+Below this heading, one will find a collection of texts I used to supplement my lectures in applied mathematics. Similar to above, I have linked where these books can be purchased.
 
 ### dynamical systems-ordinary and partial differential equations:
 1. [*Partial Differential Equations: Theory and Completely Solved Problems* by **T. Hillen, L.E. Leonard, and H. Van Roessel**](https://www.amazon.ca/Partial-Differential-Equations-Completely-Problems/dp/1525550241/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) This text does a wonderful job presenting the three main PDEs studied in the field, (i.e. heat, wave, and Laplace equations), and their properties. A spectacular feature of this text is the collection of exams at the end, complete with solutions! Table of contents for the latest edition can be viewed [here](https://books.google.ca/books/about/Partial_Differential_Equations.html?id=G_WaDwAAQBAJ&redir_esc=y).
@@ -111,7 +111,8 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 2. [*Learning Scientific Programming with Python by* **_Christian Hill_**](https://www.amazon.ca/Learning-Scientific-Programming-Python-Christian/dp/1108745911/ref=sr_1_1?crid=316716PWPC7A2&keywords=Learning+Scientific+Programming+with+Python&qid=1645588273&sprefix=learning+scientific+programming+with+python%2Caps%2C97&sr=8-1)
 
-3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview) This is a great introductory Python course offered by Udemy.
+3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview) 
+- This is a great introductory Python course offered by Udemy.
 
 ### C++
 1. [*Guide to Scientific Computing in C++ by* **_Joe Pitt-Francis and Jonathan Whiteley_**](https://www.amazon.ca/Scientific-Computing-Undergraduate-Computer-Science-ebook/dp/B07BQP9Y2C)  
