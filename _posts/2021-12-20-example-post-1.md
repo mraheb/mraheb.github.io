@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Post 1
-categories: [First Rule of Book Club is You <em>Talk</em> About Book Club]
+categories: [Whatever Happens in the Kitchen, Stays in the Kitchen: Recipes near and dear to my heart]
 usemathjax: true
 comments: true
 ---
