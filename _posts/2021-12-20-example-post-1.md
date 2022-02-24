@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Post 1
-categories: [Whatever Happens in the Kitchen, Stays in the Kitchen &colon; Recipes near and dear to my heart]
+categories: [Whatever Happens in the Kitchen&#44; Stays in the Kitchen &#58; Recipes near and dear to my heart]
 usemathjax: true
 comments: true
 ---
