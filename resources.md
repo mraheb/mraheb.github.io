@@ -25,7 +25,7 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 ### resources for the passionate physical chemist:
 1. [*Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscienc by* **_Ken A. Dill and Sarina Bromberg_**](https://www.amazon.ca/Molecular-Driving-Forces-Statistical-Thermodynamics/dp/0815344309/ref=sr_1_1?keywords=molecular+driving+forces&qid=1644635385&sprefix=molecular+driving+%2Caps%2C87&sr=8-1)
 
-2. [*Physical Chemistry by* **Peter Atkins, Julio de Paula, and James Keeler_**](https://www.amazon.ca/Atkins-Physical-Chemistry-Peter/dp/0198769865/ref=sr_1_1?crid=2U928G185K2L9&keywords=atkins+physical+chemistry&qid=1644635498&sprefix=atkins+physical+chemistry%2Caps%2C87&sr=8-1)
+2. [*Physical Chemistry by* **_Peter Atkins, Julio de Paula, and James Keeler_**](https://www.amazon.ca/Atkins-Physical-Chemistry-Peter/dp/0198769865/ref=sr_1_1?crid=2U928G185K2L9&keywords=atkins+physical+chemistry&qid=1644635498&sprefix=atkins+physical+chemistry%2Caps%2C87&sr=8-1) This is a pretty good reference text suitable for intermediate students. A great feature of this text are the sections proceding each topic; before each topic is covered, 
 
 
 ### resources for the outstanding organic chemist:
