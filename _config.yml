@@ -9,7 +9,7 @@ permalink:        pretty
 title:            "Maria Raheb"
 tagline:          "Maria Raheb" #This is only used on pages with title "Home"
 description:      "A Quantum Girl in a Quantum World"
-url:              https://mraheb.github.io
+url:              www.mariaraheb.com
 baseurl:          /
 sidebarimage:	  /images/pic.jpg
 sidebarimagealttext:	It's me!
@@ -20,7 +20,7 @@ disqus:
 
 author:
   name:           Maria Raheb
-  url:            https://mraheb.github.io
+  url:            www.mariaraheb.com
 
 plugins:
   - jekyll-paginate
