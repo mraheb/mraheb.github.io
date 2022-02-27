@@ -30,6 +30,11 @@ The key entity in quantum mechanics is the **_wavefunction_**, from which we can
 
 
 ## <span style = "color:#28bdad">Why I do what I do</span>
+### <span style = "color:#28bdad">*Versatility*</span>
+### <span style = "color:#28bdad">*Collaboration*</span>
+### <span style = "color:#28bdad">*Discovery*</span>
+
+
 ## <span style = "color:#28bdad">Projects</span>
 * My group members and I (they don't know this yet), are actively working to compile solutions for the first four chapters of [*Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory* by **Attila Szabo and Neil S. Ostlund**](https://www.amazon.ca/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861/ref=sr_1_1?crid=2P59B0I98CA7H&keywords=szabo+quantum&qid=1645408717&sprefix=szabo+quantum%2Caps%2C72&sr=8-1). 
 
