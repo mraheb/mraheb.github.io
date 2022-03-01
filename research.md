@@ -18,9 +18,9 @@ Let's start with something more tangible and relatable. Loosely speaking, **_cla
 The key entity in quantum mechanics is the **_wavefunction_**, from which we can attain all the information, or *goodies* about the system of interest. The wavefunction is an enigmatic entity, that is, its quite difficult to conceptualize. Dr. Chris Cramer describes the wavefunction as being an oracle that you ask questions to by means of probing it with so-called **_operator_**.
 
 
-
+\begin{equation}
 \boxed{123}
-
+\end{equation}
 
 
 
