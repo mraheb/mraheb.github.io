@@ -19,7 +19,7 @@ The key entity in quantum mechanics is the **_wavefunction_**, from which we can
 
 
 \begin{equation}
-\boxed{123}
+\boxed{\widehat{H}\psi=E\psi}
 \end{equation}
 
 
