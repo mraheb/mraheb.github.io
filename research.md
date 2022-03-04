@@ -23,7 +23,7 @@ The key entity in quantum mechanics is the **_wavefunction_**, from which we can
 \end{equation}
 where
 \begin{equation}
-\boxed{\hat{H}= -\frac{\hbar}{2m}\nabla^2+V}
+\boxed{\hat{H}= -\frac{\hbar}{2m}\nabla^2+V} \nonumber
 \end{equation}
 
 
