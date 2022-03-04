@@ -25,11 +25,11 @@ The key entity in quantum mechanics is the **_wavefunction_**, from which we can
 
 ## <span style = "color:#28bdad">Research Tips</span>
 Much of my approach to research and discovery is owed to my wonderful supervisor. 
-1. <span style = "color:#28bdad">*Tackle what's already known and established*</span>
+1. <span style = "color:#28bdad">*Tackle what's already known and established:*</span>
 Start by reproducing the results of a paper pertaining to your research question. This is an excellent way to identify any issues you may have in understanding the underlying theory governing the problem you're interested in solving. Moreover, you'll be able to check if your results are correct because they've already been established by someone else!
-2. <span style = "color:#28bdad">*The Low-hanging Fruit*</span>
+2. <span style = "color:#28bdad">*The Low-hanging Fruit:*</span>
 Once you have sucessfully reproduced the results of a pertinent paper, begin exploring the **simplest** of examples pertaining to your work, the low-hanging fruit. This is something I did quite alot of this in undergrad, especially in my mathematics courses; for instances, if you're asked to consider a model consisting of 10 variables, why not consider the same model but with 2 variables?
-4. <span style = "color:#28bdad">*Tackle the Big Dogs*</span>
+4. <span style = "color:#28bdad">*Tackle the Big Dogs:*</span>
 5. <span style = "color:#28bdad">*To Infinity and Beyond!*</span>
 
 
