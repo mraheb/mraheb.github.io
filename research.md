@@ -33,6 +33,7 @@ where
 
 ## <span style = "color:#28bdad">Why I do what I do</span>
 ### <span style = "color:#28bdad">*Versatility*</span>
+As my third year quantum chemistry professor remarked, "mathematics is the language of all science;" indeed it is. Quantum chemistry is the *perfect* marriage of applied mathematics and chemistry.
 ### <span style = "color:#28bdad">*Collaboration*</span>
 ### <span style = "color:#28bdad">*Discovery*</span>
 
