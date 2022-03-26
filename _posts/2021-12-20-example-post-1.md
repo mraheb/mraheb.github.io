@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Pesto is the Besto
-categories: [Whatever Happens in the Kitchen&#44; Stays in the Kitchen &#58; Recipes near and dear to my heart]
+categories: [Whatever Happens in the Kitchen&#44; Stays in the Kitchen]
 usemathjax: true
 comments: true
 ---
