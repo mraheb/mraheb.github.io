@@ -19,6 +19,7 @@ Let's start with something more tangible and relatable. Loosely speaking, **_cla
 The key entity in quantum mechanics is the **_wavefunction_**, from which we can attain all the information, or *goodies* about the system of interest. The wavefunction is an enigmatic entity, that is, its quite difficult to conceptualize. However, Dr. Chris Cramer cleverly describes the wavefunction as being an oracle that you ask questions to by means of probing it with a so-called **_operator_**. Most often we are interested in the total energy of the system of interest and it can be obtained by probing the wavefunction with the **_Hamiltonian operator._** This operator is a sum of the kinetic energy operator and potential energy operator, where the latter characterizes the system and the former is the same for *every* system (more on this later). Now that we've introduced the wavefunction and the Hamiltonian operator, we're ready to introduce the **_Schrodinger equation,_** the most central equation of quantum mechanics, given in \eqref{eqn1}. 
 
 
+
 \begin{equation}
 \label{eqn1}
 \boxed{\hat{H}\psi=E\psi} 
@@ -27,6 +28,14 @@ where
 \begin{equation}
 \boxed{\hat{H}= -\frac{\hbar}{2m}\nabla^2+V} 
 \end{equation}
+
+<span style = "color:#28bdad">Postulate 1</span>
+<span style = "color:#28bdad">Postulate 2</span>
+<span style = "color:#28bdad">Postulate 3</span>
+
+
+
+
 
 
 
