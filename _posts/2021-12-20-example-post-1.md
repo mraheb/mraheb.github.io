@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Pesto is the Besto
-categories: [Whatever Happens in the Kitchen Stays in the Kitchen]
+categories: [Whatever Happens in the Kitchen&comma; Stays in the Kitchen]
 usemathjax: true
 comments: true
 ---
