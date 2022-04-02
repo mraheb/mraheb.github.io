@@ -13,7 +13,7 @@ url:               https://mraheb.github.io
 baseurl:          /
 sidebarimage:	  /images/pic.jpg
 sidebarimagealttext:	It's me!
-quotecolor:        #55DBCD
+
 disqus:
    shortname:	https-mraheb-github-io
 
