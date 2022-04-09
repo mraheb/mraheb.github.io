@@ -29,17 +29,6 @@ where
 \boxed{\hat{H}= -\frac{\hbar}{2m}\nabla^2+V} 
 \end{equation}
 
-<span style = "color:#28bdad">Postulate 1</span>
-<span style = "color:#28bdad">Postulate 2</span>
-<span style = "color:#28bdad">Postulate 3</span>
-
-
-
-
-
-
-
-
 ## <span style = "color:#28bdad">Why I do what I do</span>
 ### <span style = "color:#28bdad">*Versatility*</span>
 As my third year quantum chemistry professor remarked, "mathematics is the language of all science;" indeed it is. Quantum chemistry is the *perfect* marriage of applied mathematics and chemistry. Quantum chemistry, namely computational quantum chemistry forms the basis for all other areas of chemistry.
