@@ -25,6 +25,7 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-last-modified-at
 
 # Sets blog page to have previews
 paginate:         5
@@ -40,9 +41,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-plugins:
-  - jekyll-last-modified-at
-
-# Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
     date-format: '%d-%b-%y'
