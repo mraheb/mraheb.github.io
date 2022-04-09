@@ -129,4 +129,4 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 * <span style = "color:#55DBCD">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and are normally associated with brands or websites. 
 
 <a href="#top">take me back to the top! &#8634;</a>
-{{ page.last_modified_at }}
+
