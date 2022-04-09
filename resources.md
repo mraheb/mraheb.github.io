@@ -8,7 +8,7 @@ title: Resources
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
 
 ## <span style = "color:#28bdad">Chemistry Resources</span>
-Below one will find a plethora of chemistry texts that have helped me tremendously during my undergraduate career, especially with my chemistry major. The texts listed under the first three sections below continue to aid me in my graduate studies and hopefully they will be of use to you too.
+Below one will find a plethora of chemistry texts that have been of tremendous help throughout my undergraduate career, especially with my chemistry major. The texts listed under the first three sections below continue to aid me in my graduate studies and hopefully they will be of use to you too.
 
 ### resources for the curious computational chemist:
 1. [*Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics by* **_Errol G. Lewars_**](https://www.amazon.ca/Computational-Chemistry-Introduction-Applications-Molecular/dp/3319809156/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1644192255&sr=8-2) 
