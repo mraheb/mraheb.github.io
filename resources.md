@@ -63,15 +63,15 @@ Below this heading, one will find a collection of texts I used to supplement my 
 ### calculus:
 1. [*Calculus: Early Transcendentals by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-Early-Transcendentals-James-Stewart-dp-1337613924/dp/1337613924/ref=dp_ob_title_bk)
 
-2. [*Calculus by **James Stewart, Daniel K. Clegg, and Saleem Watson**](https://www.amazon.ca/Calculus-James-Stewart-dp-1337624187/dp/1337624187/ref=dp_ob_image_bk)
+2. [*Calculus by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-James-Stewart-dp-1337624187/dp/1337624187/ref=dp_ob_image_bk)
 
 
 ### general applied mathematics:
 1. [*How To Derive A Formula - Volume 1: Basic Analytical Skills And Methods For Physical Scientists by* **_Alexei A Kornyshev and Dominic J O' Lee_**](https://www.bookdepository.com/How-Derive-Formula-1-Basic-Analytical-Skills-Methods-For-Physical-Scientists-Alexei-Kornyshev/9781786346445) How do I even begin to describe such a wonderful text? This is a text worthy of sitting atop your desk, and not collecting dust in your bookshelf--it is an applied mathematician must-have. Read about it [here](https://www.imperial.ac.uk/news/197239/new-book-teach-anyone-derive-formula/?fbclid=IwAR3Gi-FbMCPmS05-u9hIEmSBUK4pLPyI0bYs2RMOdaktVfloYuWVYNPccqI)
 
-2. [*Mathematical Methods for Physics and Engineering* by **K.F. Riley, M.P. Hobson, and S.J.Bence**](https://www.amazon.ca/Mathematical-Methods-Physics-Engineering-Comprehensive/dp/0521679710/ref=sr_1_1?crid=16352BJL1R5OQ&keywords=Mathematical+Methods+for+Physics+and+Engineering&qid=1645315329&sprefix=mathematical+methods+for+physics+and+engineering%2Caps%2C408&sr=8-1)
+2. [*Mathematical Methods for Physics and Engineering* by **_K.F. Riley, M.P. Hobson, and S.J.Bence_**](https://www.amazon.ca/Mathematical-Methods-Physics-Engineering-Comprehensive/dp/0521679710/ref=sr_1_1?crid=16352BJL1R5OQ&keywords=Mathematical+Methods+for+Physics+and+Engineering&qid=1645315329&sprefix=mathematical+methods+for+physics+and+engineering%2Caps%2C408&sr=8-1)
 
-3. [*Advanced Mathematical Methods for Scientists and Engineers I: Asymptotic Methods and Perturbation Theory* by **Carl M. Bender and Steven A. Orszag**](https://www.amazon.ca/Advanced-Mathematical-Methods-Scientists-Engineers/dp/1441931872/ref=sr_1_1?crid=NY9DURCOQM3N&keywords=Advanced+Mathematical+Methods+for+Scientists+and+Engineers+I&qid=1645315962&sprefix=advanced+mathematical+methods+for+scientists+and+engineers+i+%2Caps%2C89&sr=8-1)
+3. [*Advanced Mathematical Methods for Scientists and Engineers I: Asymptotic Methods and Perturbation Theory* by **_Carl M. Bender and Steven A. Orszag_**](https://www.amazon.ca/Advanced-Mathematical-Methods-Scientists-Engineers/dp/1441931872/ref=sr_1_1?crid=NY9DURCOQM3N&keywords=Advanced+Mathematical+Methods+for+Scientists+and+Engineers+I&qid=1645315962&sprefix=advanced+mathematical+methods+for+scientists+and+engineers+i+%2Caps%2C89&sr=8-1)
 
 
 
