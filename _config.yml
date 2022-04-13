@@ -40,4 +40,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+plugins:
+  - jekyll-last-modified-at
+
+
+last-modified-at:
+    date-format: '%d-%b-%y'
 
