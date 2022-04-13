@@ -16,4 +16,8 @@ gem "jekyll-feed"
 
 gem "kramdown-parser-gfm"
 
+group :jekyll_plugins do
+  gem 'jekyll-last-modified-at'
+end
+
 # gem "nokogiri", "~> 1.10.10"
