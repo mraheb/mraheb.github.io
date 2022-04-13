@@ -1,7 +1,6 @@
 ---
 layout: page
 usemathjax: true
-last_modified_at: 2022-04-13
 title: Resources
 ---
 <a name="top"></a>
@@ -108,6 +107,7 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 
 ## <span style = "color:#28bdad">Programming</span>
+[*Replit*](https://replit.com/) is a free, online IDE that supports a medley of programming languages. This is a phenomenal site for beginner coders and only requires  internet access!
 ### Python
 1. [*Python Crash Course: A Hands-On, Project-Based Introduction to Programming by* **_Eric Matthes_**](https://www.amazon.ca/Python-Crash-Course-Eric-Matthes/dp/1593279280/ref=sr_1_1crid=MZQZCSS1VDX3&keywords=python+crash+course&qid=1645584721&sprefix=python+crash+course%2Caps%2C121&sr=8-1)
 
@@ -131,4 +131,4 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 <a href="#top">take me back to the top! &#8634;</a>
 
-
+{% last_modified_at %}
