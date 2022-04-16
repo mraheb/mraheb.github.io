@@ -5,4 +5,4 @@ categories: [Pull up a chair]
 usemathjax: true
 comments: true
 ---
-Coming soon...
+## <span style = "color:#28bdad">*Never form alliances based on mutual hate.*</span> 
