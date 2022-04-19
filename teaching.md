@@ -7,7 +7,7 @@ title: Teaching
 
 As a M.Sc. candidate in chemistry, I have the pleasure and privilege of mentoring and teaching undergraduate students. 
 Currently, I am a laboratory teaching assistant for **Chemistry 1302B.**
-Presently, I do not have any office hours and current students should contact the laboratory coordinator for all lab-related inquiries. If you are a former student of mine, please feel free to [contact me](https://mraheb.github.io/contactme/) if you have any questions about my undergraduate experience. Thus far, I have been a teaching assistant for the following courses:
+Presently, I do not have any office hours and current students should contact the laboratory coordinator for all lab-related inquiries. If you are a former student of mine and have any questions regarding my undergrad experience, feel free to [contact me](https://mraheb.github.io/contactme/) with your name, the year I instructed you, and the course you had me for. Thus far, I have been a teaching assistant for the following courses:
 
 * Fall 2021: [**_Chemistry 1301A:_** *Discovering Chemical Structure.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
 * Winter 2022: [**_Chemistry 1302B:_** *Discovering Chemical Energetics.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
