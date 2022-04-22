@@ -11,7 +11,7 @@ Presently, I do not have any office hours and current students should contact th
 
 * Fall 2021: [**_Chemistry 1301A:_** *Discovering Chemical Structure.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
 * Winter 2022: [**_Chemistry 1302B:_** *Discovering Chemical Energetics.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
-* Summer (May) 2022: [**_Chemistry 2213A:_** *Organic Chemistry for the Life Sciences.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
-* Summer (June) 2022: [**_Chemistry 2223A:_** *Organic Chemistry of Biological Molecules.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
+* Summer 2022: [**_Chemistry 2213A:_** *Organic Chemistry for the Life Sciences.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
+* Summer 2022: [**_Chemistry 2223A:_** *Organic Chemistry of Biological Molecules.*](https://www.uwo.ca/chem/undergraduate/current_students/course_information/index.html)
 
 
