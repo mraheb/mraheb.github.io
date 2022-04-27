@@ -14,7 +14,7 @@ So, I excitedly pulled out the file from an undergraduate course in scientific c
   
 Great!
 
-First thing to do was to enable *Developer Mode.* This is done by navigating to Settings &#8594 Update & Security &#8594 For Developers and then checking off the *Developer Mode* box.
+First thing to do was to enable *Developer Mode.* This is done by navigating to Settings &#8594; Update & Security &#8594; For Developers and then checking off the *Developer Mode* box.
   
 Alright, so far so good!
   
