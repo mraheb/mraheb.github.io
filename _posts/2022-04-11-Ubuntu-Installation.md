@@ -11,6 +11,16 @@ Purchasing a new laptop can be exciting, but reinstalling applications and progr
 The most common operating system is the microsoft windows OS. However, windows users can run Linux on windows a few different ways, one of those being through the use of WSL, or *Windows Subsystem for Linux.* In my case, I required access to my office computer and the only way I knew how to do this was by installing WSL on my home laptop to be able to use ssh client. The advantage of WSL is that you can run Linux applications, such as ssh client, without the extra weight of a virtual machine <sup>[1](https://solarianprogrammer.com/2017/04/15/install-wsl-windows-subsystem-for-linux/).
   
 So, I excitedly pulled out the file from an undergraduate course in scientific computing with C++ and started pouring through the notes until I found a handout from my instructor detailing how to set my laptop up to support Linux. 
-Great!
   
+Great!
+
+First thing to do was to enable *Developer Mode.* This is done by navigating to Settings &#8594 Update & Security &#8594 For Developers and then checking off the *Developer Mode* box.
+  
+Alright, so far so good!
+  
+Next up was enabling *Windows Subsystem for Linux,* which can be done by navigating to *Windows Features* panel and checking off the respective box.
+  
+Wonderful!
+  
+Finally, it was time to download *Ubuntu* from the Microsoft store.
 
