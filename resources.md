@@ -4,10 +4,10 @@ usemathjax: true
 title: Resources
 ---
 <a name="top"></a>
-<span style = "color:#4D5FF">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
+<span style = "color:#4D5FFF">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
 
-## <span style = "color:#808DFF">Chemistry Resources</span>
+## <span style = "color:#4D5FFF">Chemistry Resources</span>
 Below one will find a plethora of chemistry texts that have been of tremendous help throughout my undergraduate career, especially with my chemistry major. The texts listed under the first three sections below continue to aid me in my graduate studies and hopefully they will be of use to you too.
 
 ### resources for the curious computational chemist:
@@ -41,7 +41,7 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 ### resources for the inquisitive inorganic chemist:
 1. [*Inorganic Chemistry by* **_Gary Miessler_**](https://www.amazon.ca/Inorganic-Chemistry-5th-Gary-Miessler/dp/0321811054) I got substantial use out of this text for a transition metals chemistry course back in undergrad. Unlike other inorganic chemistry texts, Miessler discusses group theory and its ties to molecular orbital theory and spectroscopy a , so if you're keen on group theory and its implications in inorganic chemistry and spectroscopy, give this text a go! 
 
-## <span style = "color:#808DFF">Applied Mathematics Resources</span>
+## <span style = "color:#4D5FFF">Applied Mathematics Resources</span>
 Below this heading, one will find a collection of texts I used to supplement my undergraduate applied mathematics lectures. Similar to above, I have linked where these books can be purchased.
 
 ### dynamical systems-ordinary and partial differential equations:
@@ -76,7 +76,7 @@ Below this heading, one will find a collection of texts I used to supplement my 
 
 
 
-## <span style = "color:#808DFF">Podcasts</span> 
+## <span style = "color:#4D5FFF">Podcasts</span> 
 ### podcasts pertaining to philosophy, self-betterment, and current events:
 * [*Philosophize This! with* **_Stephen West_**](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=e29b71f734844d52)
 * [*Ten Percent Happier with* **_Dan Harris_**](https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv?si=56a84cc5696a4094)
@@ -94,7 +94,7 @@ Below this heading, one will find a collection of texts I used to supplement my 
 * [*StarTalk Radio* by **_Neil deGrasse Tyson_**](https://open.spotify.com/show/1mNsuXfG95Lf76YQeVMuo1?si=953b97508a994473)
 
 
-## <span style = "color:#808DFF">Cheatsheets</span>
+## <span style = "color:#4D5FFF">Cheatsheets</span>
 Here you will find a compliation of cheatsheets for various computing purposes. 
 * [Beamer Appearence Cheatsheet](/files/Beamer-Latex-Cheatsheet.pdf)<sup>[1](https://latex-beamer.com/)</sup>: Beamer is $\LaTeX$ class used to create high-quality scientific (or even non-scientific) presentations. Attached is a useful reference for themes, fonts, colors, and formats available in the beamer class courtesy of [Thierry Masson](http://science.thilucmic.fr/).
 
@@ -107,7 +107,7 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 
 
-## <span style = "color:#808DFF">Programming</span>
+## <span style = "color:#4D5FFF">Programming</span>
 [*Replit*](https://replit.com/) is a free, online IDE that supports a medley of programming languages. This is a phenomenal site for beginner coders and only requires  internet access!
 ### Python
 1. [*Python Crash Course: A Hands-On, Project-Based Introduction to Programming by* **_Eric Matthes_**](https://www.amazon.ca/Python-Crash-Course-Eric-Matthes/dp/1593279280/ref=sr_1_1crid=MZQZCSS1VDX3&keywords=python+crash+course&qid=1645584721&sprefix=python+crash+course%2Caps%2C121&sr=8-1)
@@ -123,12 +123,12 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 1. [*Mastering MATLAB by* **_Duane Hanselman and Bruce Littlefield_**](https://www.amazon.ca/Mastering-MATLAB-Duane-C-Hanselman/dp/0136013309/ref=sr_1_1?crid=13G05WYI0PV4T&keywords=mastering+matlab&qid=1645591970&sprefix=mastering+matlab%2Caps%2C108&sr=8-1)
 
 
-## <span style = "color:#808DFF">Website Design</span>
-* <span style = "color:#4D5FF">*Color themes:*</span> I used [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) to select the color theme for my website. Not only does Canva provide the user with the hex code (six-digit descriptor of the color), it also suggests color combinations most compatible with the color you select. 
+## <span style = "color:#4D5FFF">Website Design</span>
+* <span style = "color:#4D5FFF">*Color themes:*</span> I used [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) to select the color theme for my website. Not only does Canva provide the user with the hex code (six-digit descriptor of the color), it also suggests color combinations most compatible with the color you select. 
 
-* <span style = "color:#4D5FF">*Fonts:*</span> [Google Fonts](https://fonts.google.com/) has a multitude of fonts to choose from. Of course, you must configure these fonts to work for your website. The font used in this website is [*Lato*](https://fonts.google.com/specimen/Lato?query=lato).
+* <span style = "color:#4D5FFF">*Fonts:*</span> [Google Fonts](https://fonts.google.com/) has a multitude of fonts to choose from. Of course, you must configure these fonts to work for your website. The font used in this website is [*Lato*](https://fonts.google.com/specimen/Lato?query=lato).
 
-* <span style = "color:#4D5FF">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and are normally associated with brands or websites. 
+* <span style = "color:#4D5FFF">*Favicons:*</span> See those social media icons in the sidebar? They're delightful, aren't they? These [favicons](https://fontawesome.com/) are small icons used in websites and are normally associated with brands or websites. 
 
 <a href="#top">take me back to the top! &#8634;</a>
 
