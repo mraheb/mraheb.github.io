@@ -6,7 +6,7 @@
     --main-font: Lato; /* This is the main font family for the text on your site */
     --fallback-fonts: Arial, sans-serif; /* These are the fallback fonts. It's best to leave these as they are */
     --main-font-colour: #515151; /* The font colour of the main text in the body of your site */
-    --main-background-colour: #fff; /* The colour of the background of your main body of text */
+    --main-background-colour: #f0f3f5; /* The colour of the background of your main body of text */
 
     --link-colour: #808DFF; /* The colour of hyperlinks in the body of the page. */
     --link-decoration: none; /* Do you want links to be decorated? Change this to "none" if not */
