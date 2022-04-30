@@ -91,7 +91,7 @@ Below this heading, one will find a collection of texts I used to supplement my 
 * [*Quirks and Quarks by* **_CBC Radio_**](https://open.spotify.com/show/2ez2pw7URhwv8H1JqALOzi?si=73828b26643c4f94)
 * [*The Weirdest Thing I Learned This Week by* **_Popular Science_**](https://open.spotify.com/show/1l3aIVJ1FVrHSixsgrJ1f4?si=184cd04d98634a35)
 * [*Science Rules with* **_Stitcher & Bill Nye_**](https://open.spotify.com/show/3zGr8BgdHMdhUeLhgEYX8R?si=26666f71976746b6)
-* [*StarTalk Radio* by **_Neil deGrasse Tyson _**](https://open.spotify.com/show/1mNsuXfG95Lf76YQeVMuo1?si=953b97508a994473)
+* [*StarTalk Radio* by **_Neil deGrasse Tyson_**](https://open.spotify.com/show/1mNsuXfG95Lf76YQeVMuo1?si=953b97508a994473)
 
 
 ## <span style = "color:#808DFF">Cheatsheets</span>
