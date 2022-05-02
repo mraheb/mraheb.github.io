@@ -112,7 +112,7 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 ### Python
 1. [*Python Crash Course: A Hands-On, Project-Based Introduction to Programming by* **_Eric Matthes_**](https://www.amazon.ca/Python-Crash-Course-Eric-Matthes/dp/1593279280/ref=sr_1_1crid=MZQZCSS1VDX3&keywords=python+crash+course&qid=1645584721&sprefix=python+crash+course%2Caps%2C121&sr=8-1)
 
-2. [*Learning Scientific Programming with Python by* **_Christian Hill_**](https://www.amazon.ca/Learning-Scientific-Programming-Python-Christian/dp/1108745911/ref=sr_1_1?crid=316716PWPC7A2&keywords=Learning+Scientific+Programming+with+Python&qid=1645588273&sprefix=learning+scientific+programming+with+python%2Caps%2C97&sr=8-1)
+2. [*Learning Scientific Programming with Python by* **_Christian Hill_**](https://www.amazon.ca/Learning-Scientific-Programming-Python-Christian/dp/1108745911/ref=sr_1_1?crid=316716PWPC7A2&keywords=Learning+Scientific+Programming+with+Python&qid=1645588273&sprefix=learning+scientific+programming+with+python%2Caps%2C97&sr=8-1) A great text that covers the main Python packages used in scientific computing, (Numpy, Scipy, and Matplotlib), and includes a plentiful of examples.
 
 3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview) This is a great introductory Python course offered by Udemy. No prior programming experience is assumed, but it can certainly be an asset.
 
@@ -134,4 +134,4 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 
 
-<span style = "color:#989d9e">*Last Modified: 2022-04-28*</span>
+<span style = "color:#989d9e">*Last Modified: 2022-05-02*</span>
