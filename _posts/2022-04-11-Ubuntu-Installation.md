@@ -22,5 +22,5 @@ Next up was enabling *Windows Subsystem for Linux,* which can be done by navigat
   
 Wonderful!
   
-Finally, it was time to download *Ubuntu* from the Microsoft store.
+Finally, it was time to download *Ubuntu* from the Microsoft store...error: kernel needs to be updated. The Ubuntu terminal will immediately exit out if you try to type anything in it following the error message...as I learned after about 15 tries, but I digress.
 
