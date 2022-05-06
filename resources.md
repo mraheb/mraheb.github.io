@@ -3,6 +3,8 @@ layout: page
 usemathjax: true
 title: Resources
 ---
+
+[qc]: #4D5FFF
 <a name="top"></a>
 <span style = "color:#4D5FFF">*“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 ― [Richard Feynmann](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)* </span>
