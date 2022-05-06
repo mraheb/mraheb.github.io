@@ -4,7 +4,7 @@ usemathjax: true
 title: Research
 ---
 
-
+[qc]: #4D5FFF
 <span style = "color:#55DBCD">*"True happiness occurs only when you find the problems you enjoy having and enjoy solving"- [Mark Manson](https://markmanson.net/)* </span>
 
 ## <span style = "color:#28bdad">What I do</span>
