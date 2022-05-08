@@ -121,10 +121,11 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 3. [*Complete Python Developer in 2022: Zero to Mastery by* **_Andrei Neagoie_**](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837212?start=0#overview) This is a great introductory Python course offered by Udemy. No prior programming experience is assumed, but it can certainly be an asset.
 
 ### C++
-1. [*Guide to Scientific Computing in C++ by* **_Joe Pitt-Francis and Jonathan Whiteley_**](https://www.amazon.ca/Scientific-Computing-Undergraduate-Computer-Science-ebook/dp/B07BQP9Y2C)  
+1. [*Guide to Scientific Computing in C++ by* **_Joe Pitt-Francis and Jonathan Whiteley_**](https://www.amazon.ca/Scientific-Computing-Undergraduate-Computer-Science-ebook/dp/B07BQP9Y2C)
+This text teaches C++ in the context of scientific computing and applied mathematics.
 
 ### MATLAB
-1. [*Mastering MATLAB by* **_Duane Hanselman and Bruce Littlefield_**](https://www.amazon.ca/Mastering-MATLAB-Duane-C-Hanselman/dp/0136013309/ref=sr_1_1?crid=13G05WYI0PV4T&keywords=mastering+matlab&qid=1645591970&sprefix=mastering+matlab%2Caps%2C108&sr=8-1)
+1. [*Mastering MATLAB by* **_Duane Hanselman and Bruce Littlefield_**](https://www.amazon.ca/Mastering-MATLAB-Duane-C-Hanselman/dp/0136013309/ref=sr_1_1?crid=13G05WYI0PV4T&keywords=mastering+matlab&qid=1645591970&sprefix=mastering+matlab%2Caps%2C108&sr=8-1) This is a wonderful text (usually beneficial at the graduate level) that walks the reader through the basics of MATLAB, (plotting in two and three dimensions; how to use built-in differentiation, integration, and differential equation solvers; array manipulation, etc).  The text concludes with a plentiful of examples incorperating the concepts presented in earlier chapters.
 
 
 ## <span style = "color:#4D5FFF">Website Design</span>
@@ -138,4 +139,4 @@ Here you will find a compliation of cheatsheets for various computing purposes.
 
 
 
-<span style = "color:#989d9e">*Last Modified: 2022-05-04*</span>
+<span style = "color:#989d9e">*Last Modified: 2022-05-08*</span>
