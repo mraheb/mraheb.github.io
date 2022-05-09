@@ -63,7 +63,7 @@ Below this heading, one will find a collection of texts I used to supplement my 
 
 
 ### calculus:
-1. [*Calculus: Early Transcendentals by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-Early-Transcendentals-James-Stewart-dp-1337613924/dp/1337613924/ref=dp_ob_title_bk)
+1. [*Calculus: Early Transcendentals by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-Early-Transcendentals-James-Stewart-dp-1337613924/dp/1337613924/ref=dp_ob_title_bk) Topics covered in this text are most often referred to as *Calculus I* topics. These topics include limits, derivatives, differentiation rules, an introduction to integration, and applications to derivatives and integration
 
 2. [*Calculus by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-James-Stewart-dp-1337624187/dp/1337624187/ref=dp_ob_image_bk)
 
