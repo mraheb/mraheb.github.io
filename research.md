@@ -51,7 +51,7 @@ Once you have sucessfully reproduced the results of a pertinent paper, begin exp
 * My group members and I (they don't know this yet), are actively working to compile solutions for the first four chapters of [*Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory* by **Attila Szabo and Neil S. Ostlund**](https://www.amazon.ca/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861/ref=sr_1_1?crid=2P59B0I98CA7H&keywords=szabo+quantum&qid=1645408717&sprefix=szabo+quantum%2Caps%2C72&sr=8-1). 
 
 ## <span style = "color:#4D5FFF">References</span>
-Interested in learning more about what I do? The following texts are indispensable to my research.
+Interested in learning more about what I do? The following texts are indispensable to my research-check them out!
 1. [*Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory* by **Attila Szabo and Neil S. Ostlund**](https://www.amazon.ca/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861/ref=sr_1_1?crid=2P59B0I98CA7H&keywords=szabo+quantum&qid=1645408717&sprefix=szabo+quantum%2Caps%2C72&sr=8-1). 
 
 2. [*Exploring Chemistry with Electronic Structure Methods* by **J. B. Foresman and Æ Frisch**](https://gaussian.com/expchem3/)
