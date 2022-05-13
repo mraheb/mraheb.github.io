@@ -55,7 +55,15 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
        <span style = "color:#989d9e"><em><b>Don't Stop Me Now</b>, Queen, (1978)</em></span>
        </p>
 
-
+  7.   <p>"Always had a fear of being typical<br>
+        Looking at my body feeling miserable<br>
+        Always hanging on to the visual<br>
+        I wanna be invisible<br>
+        Looking at my years like a martyrdom<br>
+        Everybody needs to be a part of 'em<br>
+        Never be enough, I'm the prodigal son<br>
+        I was born to run, I was born for this."<br>
+        <span style = "color:#989d9e"><em><b>Whatever it Takes</b>, Imagine Dragons, (2017)</em></span>
 
 
 
