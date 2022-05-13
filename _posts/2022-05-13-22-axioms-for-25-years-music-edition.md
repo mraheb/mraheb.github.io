@@ -13,35 +13,36 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
     It'll be better than before<br>
     Yesterday's gone, yesterday's gone."<br>
     <span style = "color:#989d9e"><em><b>Don't Stop</b>, Fleetwood Mac, (1977)</em></span>
-   </p>
-
-   2. <p>"Keep your heart open and your eyes shut tight<br>
-    What will be, will be."<br>
-    <span style = "color:#989d9e"><em><b>You and I, Part II</b>, Fleetwood Mac, (1987)</em></span>
     </p>
 
-   3. <p>"Still so many answers I don't know<br>
-    Realize that to question is how we grow."<br>
-    <span style = "color:#989d9e"><em><b>Proud</b>, Heather Small, (2001)</em></span>
-    </p>
+  2. <p>"Keep your heart open and your eyes shut tight<br>
+       What will be, will be."<br>
+       <span style = "color:#989d9e"><em><b>You and I, Part II</b>, Fleetwood Mac, (1987)</em></span>
+       </p>
+
+  3. <p>"Still so many answers I don't know<br>
+      Realize that to question is how we grow."<br>
+      <span style = "color:#989d9e"><em><b>Proud</b>, Heather Small, (2001)</em></span>
+      </p>
 
    4. <p>"I get up and nothin' gets me down<br>
-   You got it tough, I've seen the toughest around<br>
-   And I know, baby, just how you feel<br>
-   You got to roll with the punches and get to what's real."<br>
-   <span style = "color:#989d9e"><em><b>Jump</b>, Van Halen, (1984)</em></span>
-   </p>
+      You got it tough, I've seen the toughest around<br>
+      And I know, baby, just how you feel<br>
+      You got to roll with the punches and get to what's real."<br>
+      <span style = "color:#989d9e"><em><b>Jump</b>, Van Halen, (1984)</em></span>
+      </p>
     
     5. <p>"Well the years start coming and they don't stop coming<br>
-    Fed to the rules and I hit the ground running<br>
-    Didn't make sense not to live for fun<br>
-    Your brain gets smart but your head gets dumb<br>
-    So much to do, so much to see<br>
-    So what's wrong with taking the back streets?<br>
-    You'll never know if you don't go<br>
-    You'll never shine if you don't glow<br>
-    Hey now, you're an all-star, get your game on, go play<br>
-    Hey now, you're a rock star, get the show on, get paid<br>
-    And all that glitters is gold<br>
-    Only shooting stars break the mold."<br>
-    <span style = "color:#989d9e"><em><b>All Star</b>, Smash Mouth, (1999)</em></span>
+     Fed to the rules and I hit the ground running<br>
+     Didn't make sense not to live for fun<br>
+     Your brain gets smart but your head gets dumb<br>
+     So much to do, so much to see<br>
+     So what's wrong with taking the back streets?<br>
+     You'll never know if you don't go<br>
+     You'll never shine if you don't glow<br>
+     Hey now, you're an all-star, get your game on, go play<br>
+     Hey now, you're a rock star, get the show on, get paid<br>
+     And all that glitters is gold<br>
+     Only shooting stars break the mold."<br>
+     <span style = "color:#989d9e"><em><b>All Star</b>, Smash Mouth, (1999)</em></span>
+     </p>
