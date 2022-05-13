@@ -10,9 +10,10 @@ comments: true
     Don't stop, it'll soon be here<br>
     It'll be better than before<br>
     Yesterday's gone, yesterday's gone."<br>
-    Don't Stop, Fleetwood Mac, 1977
+    <span style = "color:#989d9e"> *Don't Stop, Fleetwood Mac, 1977* </span>
    </p>
 
-2. "Keep your heart open and your eyes shut tight
-    What will be, will be."
--  You and I, Part II, Fleetwood Mac, 1987
+2. <p>"Keep your heart open and your eyes shut tight<br>
+    What will be, will be."<br>
+    <span style = "color:#989d9e"> *You and I, Part II, Fleetwood Mac, 1987* </span>
+    </p>
