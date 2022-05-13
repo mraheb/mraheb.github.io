@@ -10,7 +10,7 @@ comments: true
     Don't stop, it'll soon be here<br>
     It'll be better than before<br>
     Yesterday's gone, yesterday's gone."<br>
-- Don't Stop, Fleetwood Mac, 1977<br>
+    Don't Stop, Fleetwood Mac, 1977
 </p>
 
 2. "Keep your heart open and your eyes shut tight
