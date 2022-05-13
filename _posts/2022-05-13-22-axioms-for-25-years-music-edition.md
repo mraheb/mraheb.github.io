@@ -64,7 +64,8 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
         Never be enough, I'm the prodigal son<br>
         I was born to run, I was born for this."<br>
         <span style = "color:#989d9e"><em><b>Whatever it Takes</b>, Imagine Dragons, (2017)</em></span>
-
+        </p>
+        
   8.  <p>"I've paid my dues<br>
        Time after time<br>
        I've done my sentence<br>
@@ -76,9 +77,16 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
        And I need to go on<br>
        And on and on and on."<br>
        <span style = "color:#989d9e"><em><b>We Are the Champions</b>, Queen, (1977)</em></span>
+       </p>
 
-
-
+ 9.   <p>"Better stand tall when they're calling you out
+       Don't bend, don't break, baby, don't back down
+       It's my life
+       And it's now or never
+      'Cause I ain't gonna live forever
+       I just want to live while I'm alive."
+       <span style = "color:#989d9e"><em><b>Its my Life</b>, Bon Jovi, (2000)</em></span>
+       </p>
 
 
 
