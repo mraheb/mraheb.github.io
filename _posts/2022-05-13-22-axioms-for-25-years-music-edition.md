@@ -65,7 +65,17 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
         I was born to run, I was born for this."<br>
         <span style = "color:#989d9e"><em><b>Whatever it Takes</b>, Imagine Dragons, (2017)</em></span>
 
-
+  8.  <p>"I've paid my dues<br>
+       Time after time<br>
+       I've done my sentence<br>
+       But committed no crime<br>
+       And bad mistakes<br>
+       I've made a few<br>
+       I've had my share of sand kicked in my face<br>
+       But I've come through<br>
+       And I need to go on<br>
+       And on and on and on."<br>
+       <span style = "color:#989d9e"><em><b>We Are the Champions</b>, Queen, (1977)</em></span>
 
 
 
