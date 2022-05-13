@@ -46,3 +46,44 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
        Only shooting stars break the mold."<br>
        <span style = "color:#989d9e"><em><b>All Star</b>, Smash Mouth, (1999)</em></span>
        </p>
+       
+   6.  <p>"I'm a shooting star leaping through the sky<br> 
+       Like a tiger defying the laws of gravity<br>
+       I'm a racing car passing by like Lady Godiva<br>
+       I'm gonna go, go, go<br>
+       There's no stopping me."<br>
+       <span style = "color:#989d9e"><em><b>Don't Stop Me Now</b>, Queen, (1978)</em></span>
+       </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
