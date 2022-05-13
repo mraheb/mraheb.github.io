@@ -25,14 +25,14 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
       <span style = "color:#989d9e"><em><b>Proud</b>, Heather Small, (2001)</em></span>
       </p>
 
-   4. <p>"I get up and nothin' gets me down<br>
+  4. <p>"I get up and nothin' gets me down<br>
       You got it tough, I've seen the toughest around<br>
       And I know, baby, just how you feel<br>
       You got to roll with the punches and get to what's real."<br>
       <span style = "color:#989d9e"><em><b>Jump</b>, Van Halen, (1984)</em></span>
       </p>
     
-    5. <p>"Well the years start coming and they don't stop coming<br>
+   5. <p>"Well the years start coming and they don't stop coming<br>
        Fed to the rules and I hit the ground running<br>
        Didn't make sense not to live for fun<br>
        Your brain gets smart but your head gets dumb<br>
