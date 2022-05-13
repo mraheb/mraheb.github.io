@@ -13,7 +13,7 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
       It'll be better than before<br>
       Yesterday's gone, yesterday's gone."<br>
       <span style = "color:#989d9e"><em><b>Don't Stop</b>, Fleetwood Mac, (1977)</em></span>
-     </p>
+      </p>
 
   2.  <p>"Keep your heart open and your eyes shut tight<br>
        What will be, will be."<br>
