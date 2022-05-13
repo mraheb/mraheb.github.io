@@ -79,12 +79,12 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
        <span style = "color:#989d9e"><em><b>We Are the Champions</b>, Queen, (1977)</em></span>
        </p>
 
- 9.   <p>"Better stand tall when they're calling you out
-       Don't bend, don't break, baby, don't back down
-       It's my life
-       And it's now or never
-      'Cause I ain't gonna live forever
-       I just want to live while I'm alive."
+ 9.   <p>"Better stand tall when they're calling you out<br>
+       Don't bend, don't break, baby, don't back down<br>
+       It's my life<br>
+       And it's now or never<br>
+      'Cause I ain't gonna live forever<br>
+       I just want to live while I'm alive."<br>
        <span style = "color:#989d9e"><em><b>Its my Life</b>, Bon Jovi, (2000)</em></span>
        </p>
 
