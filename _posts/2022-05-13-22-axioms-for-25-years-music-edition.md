@@ -19,3 +19,8 @@ Inspired by [Yuval Noah Harai's](https://www.ynharari.com/about/) wonderful text
     What will be, will be."<br>
     <span style = "color:#989d9e"><em>You and I, Part II, Fleetwood Mac, 1987</em></span>
     </p>
+
+3. <p>"Still so many answers I don't know<br>
+    Realize that to question is how we grow."<br>
+    <span style = "color:#989d9e"><em>Proud, Heather Small, 2001</em></span>
+    </p>
