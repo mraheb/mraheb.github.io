@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            "Maria Raheb"
 tagline:          "" #This is only used on pages with title "Home"
-description:      "Be Slater *Determined*"
+description:      "Be Slater <em>Determined</em>"
 url:               https://mraheb.github.io
 baseurl:          /
 sidebarimage:	  /images/pic.jpg
