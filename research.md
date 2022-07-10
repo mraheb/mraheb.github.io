@@ -30,23 +30,7 @@ where
 \boxed{\hat{H}= -\frac{\hbar}{2m}\nabla^2+V} 
 \end{equation}
 
-## <span style = "color:#4D5FFF">Why I do what I do</span>
-### <span style = "color:#808DFF">*Versatility*</span>
-As my third year quantum chemistry professor remarked, "mathematics is the language of all science;" indeed it is. Quantum chemistry is the *perfect* marriage of applied mathematics and chemistry. Quantum chemistry, namely computational quantum chemistry forms the basis for all other areas of chemistry.
-### <span style = "color:#808DFF">*Collaboration*</span>
-### <span style = "color:#808DFF">*Discovery*</span>
-
-## <span style = "color:#4D5FFF">Research Tips</span>
-Much of my approach to research and discovery is owed to my wonderful supervisor. 
-1. <span style = "color:#808DFF">*Tackle what's already known and established:*</span>
-Start by reproducing the results of a paper pertaining to your research question. This is an excellent way to identify any issues you may have in understanding the underlying theory governing the problem you're interested in solving. Moreover, you'll be able to check if your results are correct because they've already been established by someone else!
-2. <span style = "color:#808DFF">*The Low-hanging Fruit:*</span>
-Once you have sucessfully reproduced the results of a pertinent paper, begin exploring the **simplest** of examples pertaining to your work, the low-hanging fruit. This is something I did quite alot of this in undergrad, especially in my mathematics courses; for instances, if you're asked to consider a model consisting of 10 variables, why not consider the same model but with 2 variables? 
-4. <span style = "color:#808DFF">*Tackle the Big Dogs:*</span>
-Begin tackling more difficult examples 
-5. <span style = "color:#808DFF">*To Infinity and Beyond!*</span>
-
-
+Under Construction...to be continued.
 
 ## <span style = "color:#4D5FFF">Projects</span>
 * My group members and I (they don't know this yet), are actively working to compile solutions for the first four chapters of [*Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory* by **Attila Szabo and Neil S. Ostlund**](https://www.amazon.ca/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861/ref=sr_1_1?crid=2P59B0I98CA7H&keywords=szabo+quantum&qid=1645408717&sprefix=szabo+quantum%2Caps%2C72&sr=8-1). 
