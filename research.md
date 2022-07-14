@@ -30,7 +30,7 @@ where
 \boxed{\hat{H}= -\frac{\hbar}{2m}\nabla^2+V} 
 \end{equation}
 
-<center><em>Under Construction...to be continued...</em></center>
+
 <span style="font-size: 30px">Under Construction...to be continued...</span>
 
 ## <span style = "color:#4D5FFF">Projects</span>
