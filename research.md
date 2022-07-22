@@ -31,7 +31,6 @@ where
 \end{equation}
 
 
-<center><span style="font-size: 30px">Under Construction...to be continued...</span></center>
 <p align="center">
   <img src="/images/TBC.jpg">
 </p>
