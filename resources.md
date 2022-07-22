@@ -26,8 +26,9 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 
 ### resources for the passionate physical chemist:
 1. [*Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience by* **_Ken A. Dill and Sarina Bromberg_**](https://www.amazon.ca/Molecular-Driving-Forces-Statistical-Thermodynamics/dp/0815344309/ref=sr_1_1?keywords=molecular+driving+forces&qid=1644635385&sprefix=molecular+driving+%2Caps%2C87&sr=8-1)
+Although this text was not used in any of my undergraduate courses, it was recommended as a supplementary text several times. The text contains a plentiful of examples with detailed solutions. Much like _Quantum Chemistry_ by **Ira N. Levine**, most of the subsections begin with a single statement summerizing the section. Again, this is far more meaningful some vague title. Furthermore, the text kicks off with a section on probability, which is crucial in understanding thermodynamics and statistical mechanics. All in all, this is a wonderful text for those interested in learning physical chemistry.
 
-2. [*Physical Chemistry by* **_Peter Atkins, Julio de Paula, and James Keeler_**](https://www.amazon.ca/Atkins-Physical-Chemistry-Peter/dp/0198769865/ref=sr_1_1?crid=2U928G185K2L9&keywords=atkins+physical+chemistry&qid=1644635498&sprefix=atkins+physical+chemistry%2Caps%2C87&sr=8-1) This is a pretty good reference text suitable for intermediate students. A great feature of this text are the sections proceding each topic; before each topic is covered, 
+2. [*Physical Chemistry by* **_Peter Atkins, Julio de Paula, and James Keeler_**](https://www.amazon.ca/Atkins-Physical-Chemistry-Peter/dp/0198769865/ref=sr_1_1?crid=2U928G185K2L9&keywords=atkins+physical+chemistry&qid=1644635498&sprefix=atkins+physical+chemistry%2Caps%2C87&sr=8-1) This is a pretty good reference text suitable for intermediate students. A great feature of this text are the sections proceding each topic; before each topic is covered, the reader is met with a series of motivating questions' _"Why do you need to know this material?"_, _"What is the key idea?"_, and _"What do you need yo know already?"_ This text is most appropriate for students who have already taken at least one physical chemistry course; a better alternative wis Physical Chemistry by Ira N. Levine.
 
 
 ### resources for the outstanding organic chemist:
@@ -139,4 +140,4 @@ This text teaches C++ in the context of scientific computing and applied mathema
 
 
 
-<span style = "color:#989d9e">*Last Modified: 2022-05-08*</span>
+<span style = "color:#989d9e">*Last Modified: 2022-07-21*</span>
