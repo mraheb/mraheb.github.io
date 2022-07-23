@@ -26,7 +26,7 @@ This is a wonderful text for beginner and intermediate, undergraduate and gradua
 
 ### resources for the passionate physical chemist:
 1. [*Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience by* **_Ken A. Dill and Sarina Bromberg_**](https://www.amazon.ca/Molecular-Driving-Forces-Statistical-Thermodynamics/dp/0815344309/ref=sr_1_1?keywords=molecular+driving+forces&qid=1644635385&sprefix=molecular+driving+%2Caps%2C87&sr=8-1)
-Although this text was not used in any of my undergraduate courses, it was recommended as a supplementary text several times. The text contains a plentiful of examples with detailed solutions. Much like _Quantum Chemistry_ by **Ira N. Levine**, most of the subsections begin with a single statement summerizing the section. Again, this is far more meaningful some vague title. Furthermore, the text kicks off with a section on probability, which is crucial in understanding thermodynamics and statistical mechanics. All in all, this is a wonderful text for those interested in learning physical chemistry.
+Although this text was not used in any of my undergraduate courses, it was recommended as a supplementary text several times. The text contains a plentiful of examples with detailed solutions. Much like _Quantum Chemistry_ by **Ira N. Levine**, most of the subsections begin with a single statement summerizing the section. Again, this is far more meaningful than some vague title. Furthermore, the text kicks off with a section on probability, which is crucial in understanding thermodynamics and statistical mechanics. Overall, this is a wonderful text for those interested in learning physical chemistry.
 
 2. [*Physical Chemistry by* **_Peter Atkins, Julio de Paula, and James Keeler_**](https://www.amazon.ca/Atkins-Physical-Chemistry-Peter/dp/0198769865/ref=sr_1_1?crid=2U928G185K2L9&keywords=atkins+physical+chemistry&qid=1644635498&sprefix=atkins+physical+chemistry%2Caps%2C87&sr=8-1) This is a pretty good reference text suitable for intermediate students. A great feature of this text are the sections proceding each topic; before each topic is covered, the reader is met with a series of motivating questions' _"Why do you need to know this material?"_, _"What is the key idea?"_, and _"What do you need yo know already?"_ This text is most appropriate for students who have already taken at least one physical chemistry course; a better alternative wis Physical Chemistry by Ira N. Levine.
 
@@ -64,11 +64,11 @@ Below this heading, one will find a collection of texts I used to supplement my 
 
 
 ### calculus:
-1. [*Calculus: Early Transcendentals by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-Early-Transcendentals-James-Stewart-dp-1337613924/dp/1337613924/ref=dp_ob_title_bk) Topics covered in this text are most often referred to as *Calculus I* topics. These topics include limits, derivatives, differentiation rules, an introduction to integration, and applications to derivatives and integration
+1. [*Calculus: Early Transcendentals by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-Early-Transcendentals-James-Stewart-dp-1337613924/dp/1337613924/ref=dp_ob_title_bk) Topics covered in this text are most often referred to as *Calculus I* topics. These topics include limits, derivatives, differentiation rules, an introduction to integration, and applications to derivatives and integration. If you prefer learning by example with minimal proofs, check this text out.
 
-2. [*Calculus by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-James-Stewart-dp-1337624187/dp/1337624187/ref=dp_ob_image_bk)
-
-
+2. [*Calculus: Multivariable Calculus by* **_James Stewart, Daniel K. Clegg, and Saleem Watson_**](https://www.amazon.ca/Calculus-James-Stewart-dp-1337624187/dp/1337624187/ref=dp_ob_image_bk)
+ A multivariant extension of the topics covered in the aforementioned text, _Early Transcendentals_. Topics covered include multiple integrals, vector calculus, and second-order differential equations.
+ 
 ### general applied mathematics:
 1. [*How To Derive A Formula - Volume 1: Basic Analytical Skills And Methods For Physical Scientists by* **_Alexei A Kornyshev and Dominic J O' Lee_**](https://www.bookdepository.com/How-Derive-Formula-1-Basic-Analytical-Skills-Methods-For-Physical-Scientists-Alexei-Kornyshev/9781786346445) How do I even begin to describe such a wonderful text? This is a text worthy of sitting atop your desk, and not collecting dust in your bookshelf--it is an applied mathematician must-have. Read about it [here](https://www.imperial.ac.uk/news/197239/new-book-teach-anyone-derive-formula/?fbclid=IwAR3Gi-FbMCPmS05-u9hIEmSBUK4pLPyI0bYs2RMOdaktVfloYuWVYNPccqI)
 
@@ -140,4 +140,4 @@ This text teaches C++ in the context of scientific computing and applied mathema
 
 
 
-<span style = "color:#989d9e">*Last Modified: 2022-07-21*</span>
+<span style = "color:#989d9e">*Last Modified: 2022-07-22*</span>
